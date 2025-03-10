@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/shipping_rates",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/shipping_rates\nCall log:\n  - navigating to \"https://docs.stripe.com/api/shipping_rates\", waiting until \"domcontentloaded\"\n"
+  }
+}

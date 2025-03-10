@@ -1,0 +1,8 @@
+{
+  "content": "# Quotes\n\n## Provide pricing estimates to customers before starting a subscription or invoice.\n\nYou can use quotes to combine recurring and one-off line items so you can\nprovide your customers with a price estimate, including any discounts or taxes.\n​​You can convert the quote into a recurring\n[subscription](https://docs.stripe.com/billing/subscriptions/creating) or a\none-time [invoice](https://docs.stripe.com/api/invoices) after the customer\naccepts the quote.\n\n![Quote\nPDF](https://b.stripecdn.com/docs-statics-srv/assets/quote-pdf.fbd3abb09a59b6be9f1c692ab402691c.png)\n\nThe generated quote PDF\n\n## How it works\n\nWith quotes, you can provide estimates and initiate invoices or subscriptions\nwithout adding additional custom logic in your integration. See the [integration\nguide](https://docs.stripe.com/quotes/overview) or view the [API\nreference](https://docs.stripe.com/api/quotes) for more details.\n\n## Links\n\n- [Your plans\npage](https://dashboard.stripe.com/settings/plans?utm_source=docs-quotes)\n- [accessing quotes](https://support.stripe.com/questions/how-to-access-quotes)\n- [subscription](https://docs.stripe.com/billing/subscriptions/creating)\n- [invoice](https://docs.stripe.com/api/invoices)\n- [integration guide](https://docs.stripe.com/quotes/overview)\n- [API reference](https://docs.stripe.com/api/quotes)",
+  "metadata": {
+    "title": "Quotes | Stripe Documentation",
+    "description": "Provide pricing estimates to customers before starting a subscription or invoice.",
+    "sourceURL": "https://docs.stripe.com/quotes"
+  }
+}

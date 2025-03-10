@@ -1,0 +1,8 @@
+{
+  "content": "# Enable local payment methods by country\n\n## Use South Korean and Nigerian payment methods.\n\nIntegrating local payment methods is crucial when expanding into markets like\nSouth Korea and Nigeria. Stripe supports various region-specific payment\noptions, allowing businesses to cater to local preferences and potentially\nincrease conversion rates. Learn how to set up and use Korean and Nigerian\npayment methods with Stripe, such as KakaoPay in South Korea and Naira cards in\nNigeria.\n\n## Get started\n\n[Nigerian payment methodsAccept Nigerian local payment methods without a local\nentity.](https://docs.stripe.com/payments/countries/nigeria)[South Korean\npayment methodsAccept wallets and all local cards in South Korea without a local\nentity.](https://docs.stripe.com/payments/countries/korea)\n\n## Links\n\n- [Nigerian payment methodsAccept Nigerian local payment methods without a local\nentity.](https://docs.stripe.com/payments/countries/nigeria)\n- [South Korean payment methodsAccept wallets and all local cards in South Korea\nwithout a local entity.](https://docs.stripe.com/payments/countries/korea)",
+  "metadata": {
+    "title": "Enable local payment methods by country | Stripe Documentation",
+    "description": "Use South Korean and Nigerian payment methods.",
+    "sourceURL": "https://docs.stripe.com/payments/local-markets"
+  }
+}

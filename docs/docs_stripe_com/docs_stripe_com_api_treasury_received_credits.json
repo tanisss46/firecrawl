@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/treasury/received_credits",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/treasury/received_credits\nCall log:\n  - navigating to \"https://docs.stripe.com/api/treasury/received_credits\", waiting until \"domcontentloaded\"\n"
+  }
+}

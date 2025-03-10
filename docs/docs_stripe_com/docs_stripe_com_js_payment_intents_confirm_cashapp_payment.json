@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/payment_intents/confirm_cashapp_payment",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/payment_intents/confirm_cashapp_payment\nCall log:\n  - navigating to \"https://docs.stripe.com/js/payment_intents/confirm_cashapp_payment\", waiting until \"domcontentloaded\"\n"
+  }
+}

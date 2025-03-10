@@ -1,0 +1,8 @@
+{
+  "content": "# Create an embeddable buy button\n\n## Use Payment Links to create an embeddable buy button for your website without using code.\n\nCreate an embeddable buy button to sell a product, subscription, or accept a\npayment on your website. Start by selecting an existing link from the [Payment\nLinks list view](https://dashboard.stripe.com/payment-links) or by [creating a\nnew link](https://dashboard.stripe.com/payment-links/create) where you can\ndecide which products to sell and customize the checkout UI. After you create\nyour link, click **Buy button** to configure the buy button design and generate\nthe code that you can copy and paste into your website.\n\n## Customize the button\n\nBy default, your buy button uses the same branding and call to action configured\nfor your payment link. You can:\n\n- Choose between a simple button and a card widget.\n- Set brand colors, shapes, and fonts to match your website.\n- Set the language of the button and payment page to match your website’s\nlanguage.\n- Customize your button’s call to action.\n\n![Customize the buy\nbutton](https://b.stripecdn.com/docs-statics-srv/assets/buy-button-card-layout.4003c3e9ffe3ce4378092dbdcd456ed9.png)\n\nCustomize the buy button\n\n## Links\n\n- [Payment Links list view](https://dashboard.stripe.com/payment-links)\n- [creating a new link](https://dashboard.stripe.com/payment-links/create)",
+  "metadata": {
+    "title": "Create an embeddable buy button | Stripe Documentation",
+    "description": "Use Payment Links to create an embeddable buy button for your website without using code.",
+    "sourceURL": "https://docs.stripe.com/no-code/buy-button"
+  }
+}

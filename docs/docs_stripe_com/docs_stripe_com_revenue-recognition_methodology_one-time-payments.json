@@ -1,0 +1,8 @@
+{
+  "content": "# Revenue Recognition with one-time payments\n\n## Manage revenue recognition for one-time payments by importing custom service periods.\n\nWith one-time payments created in the Dashboard or through the Charges or\nPayment Intents APIs, Stripe has data on the transaction amount and payment\ntime, but no explicit service period data. By default, Stripe Revenue\nRecognition immediately recognizes the revenue from one-time payments, but you\ncan override this behavior by\n[importing](https://docs.stripe.com/revenue-recognition/data-import) a custom\nservice period.\n\nThis example is for a one time payment of 10 USD.\n\nThe journal entries generated might look like the following:\n\nDebitCreditAmountAccountsReceivablesDeferredRevenue+10.00CashAccountsReceivables+10.00DeferredRevenueRevenue+10.00\nThis nets out to leave the following end state:\n\nAccountAmountCash+10.00Revenue+10.00\n#### Caution\n\nTo incorporate a fulfillment schedule into your Revenue Recognition reports, you\nmust first [import the\ndata](https://docs.stripe.com/revenue-recognition/data-import).\n\n## Links\n\n- [importing](https://docs.stripe.com/revenue-recognition/data-import)",
+  "metadata": {
+    "title": "Revenue Recognition with one-time payments | Stripe Documentation",
+    "description": "Manage revenue recognition for one-time payments by importing custom service periods.",
+    "sourceURL": "https://docs.stripe.com/revenue-recognition/methodology/one-time-payments"
+  }
+}

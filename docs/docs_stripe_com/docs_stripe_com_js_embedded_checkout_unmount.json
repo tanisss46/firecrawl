@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/embedded_checkout/unmount",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/embedded_checkout/unmount\nCall log:\n  - navigating to \"https://docs.stripe.com/js/embedded_checkout/unmount\", waiting until \"domcontentloaded\"\n"
+  }
+}

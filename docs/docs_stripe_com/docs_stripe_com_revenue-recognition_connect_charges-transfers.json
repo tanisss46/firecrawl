@@ -1,0 +1,8 @@
+{
+  "content": "# Revenue Recognition for separate charges and transfersPrivate preview\n\n## Learn how Revenue Recognition works with separate charges and transfers.\n\nWith Connect, you can make charges on your platform account on behalf of\nconnected accounts, perform transfers separately, and retain funds in the\nprocess.\n\nStripe Revenue Recognition manages separate charges on the platform account in\nthe same manner we handle charges and invoices. Stripe books separate transfers\nas contra revenue, and transfer reversals cancel out the contra revenue. Revenue\nRecognition doesn’t automatically link [separate charges and\ntransfers](https://docs.stripe.com/connect/separate-charges-and-transfers)\nbecause they might not always have a direct connection.\n\nIn this example, `amount=\"1000\"` is set on the separate transfer.\n\n- On January 1, you create a charge of 15 USD.\n- On January 2, you create a transfer of 10 USD.\n- On February 1, you create a refund of 15 USD.\n- On February 2, you create a transfer reversal of 10 USD.\n\nIf you view the summary after February ends, your data might resemble the\nfollowing:\n\nAccountJanFebRevenue+15.00Refund+15.00Transfer+10.00-10.00Cash+5.00-5.00\n\n## Links\n\n- [separate charges and\ntransfers](https://docs.stripe.com/connect/separate-charges-and-transfers)",
+  "metadata": {
+    "title": "Revenue Recognition for separate charges and transfers | Stripe Documentation",
+    "description": "Learn how Revenue Recognition works with separate charges and transfers.",
+    "sourceURL": "https://docs.stripe.com/revenue-recognition/connect/charges-transfers"
+  }
+}

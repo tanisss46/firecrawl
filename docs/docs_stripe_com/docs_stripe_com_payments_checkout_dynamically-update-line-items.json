@@ -1,0 +1,8 @@
+{
+  "content": "# Dynamically update line itemsPrivate preview\n\n## Update line items in response to changes made during checkout.\n\nStripe-hosted pageEmbedded formEmbedded components\nDynamic updates aren’t available with Stripe-hosted pages.",
+  "metadata": {
+    "title": "Dynamically update line items | Stripe Documentation",
+    "description": "Learn how to dynamically add, remove, or update products included in a CheckoutSession and confirm any line item changes, like updates in quantity or the addition or removal of line items server-side.",
+    "sourceURL": "https://docs.stripe.com/payments/checkout/dynamically-update-line-items"
+  }
+}

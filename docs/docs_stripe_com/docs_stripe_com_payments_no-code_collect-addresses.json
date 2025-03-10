@@ -1,0 +1,8 @@
+{
+  "content": "# Collect physical addresses and phone numbers\n\n## Learn how to collect addresses and phone numbers without writing code.\n\nYou can collect addresses and phone numbers with payment links by adding those\nfields to the checkout session.\n\nDashboardAPI\n### Collect an address\n\nTo collect addresses from your customers:\n\n- [Create](https://dashboard.stripe.com/payment-links/create) or edit a payment\nlink.\n\nTo edit a payment link go to its details page and click the overflow menu ().\n- Select **Collect customers’ addresses** in the **Options** section.\n- You can collect **Billing addresses only** or you can collect **Billing and\nshipping addresses**. Choosing either makes these fields required for customers.\n- If you collect shipping addresses:\n\n- You need to select the countries you ship to. These countries appear in the\n**Country** dropdown in the **Shipping Address form** in the checkout session.\n- You can optionally add shipping rates.\n\n### Collect a phone number\n\nIf you need to collect phone numbers to complete the transaction:\n\n- [Create](https://dashboard.stripe.com/payment-links/create) or edit a payment\nlink.\n- Select **Require customers to provide a phone number**.\n\n## Links\n\n- [Create](https://dashboard.stripe.com/payment-links/create)",
+  "metadata": {
+    "title": "Collect physical addresses and phone numbers | Stripe Documentation",
+    "description": "Collect physical addresses and phone numbers from your customers with Stripe's Payment Links without writing any code.",
+    "sourceURL": "https://docs.stripe.com/payments/no-code/collect-addresses"
+  }
+}

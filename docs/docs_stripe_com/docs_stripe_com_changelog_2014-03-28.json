@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/changelog/2014-03-28",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/changelog/2014-03-28\nCall log:\n  - navigating to \"https://docs.stripe.com/changelog/2014-03-28\", waiting until \"domcontentloaded\"\n"
+  }
+}

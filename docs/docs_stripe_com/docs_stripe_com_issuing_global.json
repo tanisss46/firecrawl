@@ -1,0 +1,8 @@
+{
+  "content": "# Globally integrate Issuing\n\n## Learn how to integrate Issuing in different countries.\n\n[Get in touch](https://stripe.com/contact/baas) to set up Issuing in any of the\nfollowing countries:\n\nAustriaBelgiumCroatiaCyprusEstoniaFinlandFranceGermanyGreeceIrelandItalyLatviaLithuaniaLuxembourgMaltaNetherlandsPortugalSlovakiaSloveniaSpainUnited\nKingdomUnited States\n## Specify card issuance locations\n\nYou can issue cards to companies and individuals who reside in the same region\nwhere your business is established. If your business is established in the euro\narea or the UK, you can issue cards to any company or individual residing in the\nUK or any euro area country.\n\n## Define card usage locations\n\nCards can be used anywhere your chosen card network (Visa or Mastercard) is\naccepted. They’re denominated in USD, EUR, or GBP depending on your business\nlocation, and automatic currency conversion occurs as necessary.\n\n## See also\n\n- [Creating Cards](https://docs.stripe.com/issuing/cards/virtual/issue-cards)\n\n## Links\n\n- [Get in touch](https://stripe.com/contact/baas)\n- [Creating Cards](https://docs.stripe.com/issuing/cards/virtual/issue-cards)",
+  "metadata": {
+    "title": "Globally integrate Issuing | Stripe Documentation",
+    "description": "Learn how to integrate Issuing in different countries.",
+    "sourceURL": "https://docs.stripe.com/issuing/global"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/payments/ach-direct-debit/accept-a-payment?web-or-mobile=web&payment-ui=direct-api",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/payments/ach-direct-debit/accept-a-payment?web-or-mobile=web&payment-ui=direct-api\nCall log:\n  - navigating to \"https://docs.stripe.com/payments/ach-direct-debit/accept-a-payment?web-or-mobile=web&payment-ui=direct-api\", waiting until \"domcontentloaded\"\n"
+  }
+}

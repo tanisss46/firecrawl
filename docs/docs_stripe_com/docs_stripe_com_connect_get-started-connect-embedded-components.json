@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/connect/get-started-connect-embedded-components?client=js&platform=web",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/connect/get-started-connect-embedded-components?client=js&platform=web\nCall log:\n  - navigating to \"https://docs.stripe.com/connect/get-started-connect-embedded-components?client=js&platform=web\", waiting until \"domcontentloaded\"\n"
+  }
+}

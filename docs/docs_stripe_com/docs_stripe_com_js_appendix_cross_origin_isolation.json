@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/appendix/cross_origin_isolation",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/appendix/cross_origin_isolation\nCall log:\n  - navigating to \"https://docs.stripe.com/js/appendix/cross_origin_isolation\", waiting until \"domcontentloaded\"\n"
+  }
+}

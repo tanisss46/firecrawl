@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/changelog/acacia/2025-02-24/cs_make_billing_country_and_email_field_optional_for_klarna_payments",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/changelog/acacia/2025-02-24/cs_make_billing_country_and_email_field_optional_for_klarna_payments\nCall log:\n  - navigating to \"https://docs.stripe.com/changelog/acacia/2025-02-24/cs_make_billing_country_and_email_field_optional_for_klarna_payments\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/apple-pay",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/apple-pay\nCall log:\n  - navigating to \"https://stripe.com/apple-pay\", waiting until \"domcontentloaded\"\n"
+  }
+}

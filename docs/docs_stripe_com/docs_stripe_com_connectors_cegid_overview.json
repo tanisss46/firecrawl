@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/connectors/cegid/overview",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/connectors/cegid/overview\nCall log:\n  - navigating to \"https://docs.stripe.com/connectors/cegid/overview\", waiting until \"domcontentloaded\"\n"
+  }
+}

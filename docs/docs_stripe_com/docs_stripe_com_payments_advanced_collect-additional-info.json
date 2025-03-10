@@ -1,0 +1,8 @@
+{
+  "content": "# Collect additional information\n\n## Collect shipping and other customer info using Stripe Elements.\n\n[Collect physical addresses and phone numbersCollect addresses and phone numbers\nduring one-time payment\nflows.](https://docs.stripe.com/payments/advanced/collect-addresses)[Customize\nbilling details collectionCustomize the billing details you collect within the\nPayment\nElement.](https://docs.stripe.com/payments/payment-element/control-billing-details-collection)[Listen\nfor address inputCollect addresses to use in custom ways using an event\nlistener.](https://docs.stripe.com/elements/address-element/collect-addresses)\n\n## Links\n\n- [Collect physical addresses and phone numbersCollect addresses and phone\nnumbers during one-time payment\nflows.](https://docs.stripe.com/payments/advanced/collect-addresses)\n- [Customize billing details collectionCustomize the billing details you collect\nwithin the Payment\nElement.](https://docs.stripe.com/payments/payment-element/control-billing-details-collection)\n- [Listen for address inputCollect addresses to use in custom ways using an\nevent\nlistener.](https://docs.stripe.com/elements/address-element/collect-addresses)",
+  "metadata": {
+    "title": "Collect additional information | Stripe Documentation",
+    "description": "Collect shipping and other customer info using Stripe Elements.",
+    "sourceURL": "https://docs.stripe.com/payments/advanced/collect-additional-info"
+  }
+}

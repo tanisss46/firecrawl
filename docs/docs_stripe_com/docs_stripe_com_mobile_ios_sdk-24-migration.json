@@ -1,0 +1,8 @@
+{
+  "content": "# Migrate to Stripe iOS SDK 24\n\n## Migrate your Swift and Objective-C apps to our latest iOS SDK major version.\n\nFrom SDK 20From SDK 21From SDK 22From SDK 23\n### PaymentSheet\n\nPaymentSheet displays payment methods in either a vertical or horizontal layout.\nPrior to this major version, PaymentSheet defaulted to a horizontal layout. Now,\nStripe optimizes the layout automatically. To set a specific layout instead, set\nthe `PaymentSheet.Configuration.paymentMethodLayout` property to either\n`.horizontal` or `.vertical`.\n\n!\n\nThis example code sets the layout back to horizontal, the previous default.\n\n```\nvar configuration = PaymentSheet.Configuration()\nconfiguration.paymentMethodLayout = .horizontal\n```\n\n### Basic integration\n\nWe no longer support our legacy Basic Integration for collecting credit card and\nwallet payments.\n\nIf your app relies on any of the following APIs, it uses the Basic Integration.\nMigrate to the Mobile Payment Element, by following this [migration\nguide](https://docs.stripe.com/payments/mobile/migrating-to-mobile-payment-element-from-basic-integration).\n\n- `STPCustomerContext`\n- `STPPaymentContext`\n- `STPPaymentOptionsViewController`\n- `STPAddCardViewController`\n- `STPShippingAddressViewController`\n\n## Links\n\n- [migration\nguide](https://docs.stripe.com/payments/mobile/migrating-to-mobile-payment-element-from-basic-integration)",
+  "metadata": {
+    "title": "Migrate to Stripe iOS SDK 24 | Stripe Documentation",
+    "description": "Migrate your Swift and Objective-C apps to our latest iOS SDK major version.",
+    "sourceURL": "https://docs.stripe.com/mobile/ios/sdk-24-migration"
+  }
+}

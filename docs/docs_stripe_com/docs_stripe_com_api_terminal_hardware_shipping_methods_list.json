@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/terminal/hardware_shipping_methods/list",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/terminal/hardware_shipping_methods/list\nCall log:\n  - navigating to \"https://docs.stripe.com/api/terminal/hardware_shipping_methods/list\", waiting until \"domcontentloaded\"\n"
+  }
+}

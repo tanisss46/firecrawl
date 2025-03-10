@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/radar/pricing",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/radar/pricing\nCall log:\n  - navigating to \"https://stripe.com/radar/pricing\", waiting until \"domcontentloaded\"\n"
+  }
+}

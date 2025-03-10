@@ -1,0 +1,8 @@
+{
+  "content": "# Add one-click payment buttons\n\n## Use one-click payment options, such as Apple Pay or Google Pay.\n\nStripe-hosted pageEmbedded formEmbedded componentsPublic preview\nOne-click payment options are automatically enabled when using Stripe-hosted\npages.",
+  "metadata": {
+    "title": "Add one-click payment buttons | Stripe Documentation",
+    "description": "Use one-click payment options, such as Apple Pay or Google Pay.",
+    "sourceURL": "https://docs.stripe.com/checkout/one-click-payment-buttons"
+  }
+}

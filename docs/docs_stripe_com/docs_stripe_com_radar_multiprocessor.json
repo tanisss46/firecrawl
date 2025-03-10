@@ -1,0 +1,8 @@
+{
+  "content": "# Radar scores for multiple payment processorsPrivate preview\n\n## Get a Radar risk score on your non-Stripe processed payments.\n\n[Stripe Radar](https://docs.stripe.com/radar) provides a machine learning system\nthat returns a risk score and recommendation in real time, allowing you to\nleverage Stripe’s risk evaluation expertise for your externally processed\npayments.\n\n## Interested in using Radar on your externally processed payments?\n\nTo get early access to the Payment Evaluation API, enter your email address and\nwe'll get back to you.\n\nCollect EmailSign upRead our [privacy policy](https://stripe.com/privacy).\n\n## Links\n\n- [Stripe Radar](https://docs.stripe.com/radar)\n- [privacy policy](https://stripe.com/privacy)",
+  "metadata": {
+    "title": "Radar scores for multiple payment processors | Stripe Documentation",
+    "description": "Request a Stripe Radar risk evaluation for your non-Stripe processed payments. Report the payment outcome back to Stripe to improve the machine learning accuracy.",
+    "sourceURL": "https://docs.stripe.com/radar/multiprocessor"
+  }
+}

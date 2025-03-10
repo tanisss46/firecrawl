@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/get-started/account/orgs/sso",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/get-started/account/orgs/sso\nCall log:\n  - navigating to \"https://docs.stripe.com/get-started/account/orgs/sso\", waiting until \"domcontentloaded\"\n"
+  }
+}

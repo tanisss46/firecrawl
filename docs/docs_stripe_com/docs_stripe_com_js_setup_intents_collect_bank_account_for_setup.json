@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/setup_intents/collect_bank_account_for_setup",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/setup_intents/collect_bank_account_for_setup\nCall log:\n  - navigating to \"https://docs.stripe.com/js/setup_intents/collect_bank_account_for_setup\", waiting until \"domcontentloaded\"\n"
+  }
+}

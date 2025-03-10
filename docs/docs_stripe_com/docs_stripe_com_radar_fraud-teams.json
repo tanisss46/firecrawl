@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/radar/fraud-teams",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/radar/fraud-teams\nCall log:\n  - navigating to \"https://stripe.com/radar/fraud-teams\", waiting until \"domcontentloaded\"\n"
+  }
+}

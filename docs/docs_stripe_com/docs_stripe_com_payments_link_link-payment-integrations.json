@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/payments/link/link-payment-integrations?link-integrations=link-card-integrations",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/payments/link/link-payment-integrations?link-integrations=link-card-integrations\nCall log:\n  - navigating to \"https://docs.stripe.com/payments/link/link-payment-integrations?link-integrations=link-card-integrations\", waiting until \"domcontentloaded\"\n"
+  }
+}

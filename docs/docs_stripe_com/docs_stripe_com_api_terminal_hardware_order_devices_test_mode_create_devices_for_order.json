@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/terminal/hardware_order_devices/test_mode_create_devices_for_order",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/terminal/hardware_order_devices/test_mode_create_devices_for_order\nCall log:\n  - navigating to \"https://docs.stripe.com/api/terminal/hardware_order_devices/test_mode_create_devices_for_order\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Enable autocompletion for the Stripe CLI\n\n## Enable autocompletion so that the Stripe CLI automatically completes your commands.\n\nUse the `stripe completion` command to enable autocompletion so that the Stripe\nCLI automatically completes your commands. After you enable autocomplete, you\ncan type a command and press the tab key on your keyboard to view available\ncommands and flags.\n\n## Setup with ZSH on macOS and Linux\n\nOpen a new ZSH shell and run the following commands:\n\n```\nstripe completion\nmkdir -p ~/.stripe\nmv stripe-completion.zsh ~/.stripe\n```\n\nAdd the following lines to your `.zshrc` file:\n\n```\n# The next lines enables shell command completion for Stripe\nfpath=(~/.stripe $fpath)\nautoload -Uz compinit && compinit -i\n```\n\n## Setup with Bash on macOS and Linux\n\nFollow the instructions in\n[bash-completion](https://formulae.brew.sh/formula/bash-completion/) to set up\nbash completions.\n\nOpen a new Bash shell and run the following commands:\n\n```\nstripe completion\nmkdir -p ~/.stripe\nmv stripe-completion.bash ~/.stripe\n```\n\nAdd the following lines to your `.bashrc` file:\n\n```\n# The next line enables shell command completion for Stripe\nsource ~/.stripe/stripe-completion.bash\n```\n\n## Windows\n\nWindows autocompletion is currently not supported.\n\n## Links\n\n- [bash-completion](https://formulae.brew.sh/formula/bash-completion/)",
+  "metadata": {
+    "title": "Enable autocompletion for the Stripe CLI | Stripe Documentation",
+    "description": "Enable autocompletion so that the Stripe CLI automatically completes your commands.",
+    "sourceURL": "https://docs.stripe.com/stripe-cli/autocomplete"
+  }
+}

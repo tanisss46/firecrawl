@@ -1,0 +1,8 @@
+{
+  "content": "# Quickstarts\n\n## Start quickly from sample projects.\n\nBuild a sample integration with [Stripe Mobile\nElements](https://docs.stripe.com/payments/mobile).\n\nSee how this integration path [compares to Stripe’s other integration\ntypes](https://docs.stripe.com/payments/online-payments#compare-features-and-availability).\n\n[Build an in-app iOS integrationUse Mobile Elements to build a custom checkout\nform within your iOS\napp.](https://docs.stripe.com/payments/quickstart?platform=ios)[Build an in-app\nAndroid integrationUse Mobile Elements to build a custom checkout form within\nyour Android app.](https://docs.stripe.com/payments/quickstart?platform=android)\n\n## Links\n\n- [Stripe Mobile Elements](https://docs.stripe.com/payments/mobile)\n- [compares to Stripe’s other integration\ntypes](https://docs.stripe.com/payments/online-payments#compare-features-and-availability)\n- [Build an in-app iOS integrationUse Mobile Elements to build a custom checkout\nform within your iOS\napp.](https://docs.stripe.com/payments/quickstart?platform=ios)\n- [Build an in-app Android integrationUse Mobile Elements to build a custom\ncheckout form within your Android\napp.](https://docs.stripe.com/payments/quickstart?platform=android)",
+  "metadata": {
+    "title": "Quickstarts | Stripe Documentation",
+    "description": "Start your in-app integration with sample projects for iOS and Android apps with Stripe Mobile Elements.",
+    "sourceURL": "https://docs.stripe.com/payments/mobile/quickstarts"
+  }
+}

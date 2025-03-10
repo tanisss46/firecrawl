@@ -1,0 +1,8 @@
+{
+  "content": "# Reference guides\n\n## Use these reference guides to explore the CLI and Stripe APIs.\n\n## Where to find sample commands\n\n- Open the [Stripe API Reference](https://docs.stripe.com/api).\n- Use *command* or *control* + *F* on your keyboard to search by API name.\n- Click the API name (for example, *Create a customer*).\n- Select **Stripe CLI** in the dropdown menu.\n\n![Select Stripe CLI in the dropdown\nmenu](https://b.stripecdn.com/docs-statics-srv/assets/cli-commands.fb58dfa38b75963030832c9fa90566ac.png)\n\nSelect Stripe CLI in the dropdown menu.\n\n## Reference guides\n\nReferenceLinkStripe CLI[Stripe CLI Reference](https://docs.stripe.com/cli)Stripe\nAPI[Stripe API Reference](https://docs.stripe.com/api)Stripe API\nchangelog[Stripe API changelog](https://docs.stripe.com/changelog)Stripe API\nPostman collection[Stripe\nDevelopers](https://www.postman.com/stripedev/workspace/stripe-developers/overview)\n\n## Links\n\n- [Stripe API Reference](https://docs.stripe.com/api)\n- [Stripe CLI Reference](https://docs.stripe.com/cli)\n- [Stripe API changelog](https://docs.stripe.com/changelog)\n- [Stripe\nDevelopers](https://www.postman.com/stripedev/workspace/stripe-developers/overview)",
+  "metadata": {
+    "title": "Reference guides | Stripe Documentation",
+    "description": "Use these reference guides to explore the CLI and Stripe APIs.",
+    "sourceURL": "https://docs.stripe.com/stripe-cli/reference"
+  }
+}

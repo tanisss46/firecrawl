@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/payment_intents/handle_card_action",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/payment_intents/handle_card_action\nCall log:\n  - navigating to \"https://docs.stripe.com/js/payment_intents/handle_card_action\", waiting until \"domcontentloaded\"\n"
+  }
+}

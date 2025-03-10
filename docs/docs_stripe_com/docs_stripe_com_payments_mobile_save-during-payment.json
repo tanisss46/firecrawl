@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/payments/mobile/save-during-payment?platform=platform%3Dreact-native&amp%3Bmobile-ui=payment-element",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/payments/mobile/save-during-payment?platform=platform%3Dreact-native&amp%3Bmobile-ui=payment-element\nCall log:\n  - navigating to \"https://docs.stripe.com/payments/mobile/save-during-payment?platform=platform%3Dreact-native&amp%3Bmobile-ui=payment-element\", waiting until \"domcontentloaded\"\n"
+  }
+}

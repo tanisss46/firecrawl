@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/docs/stripe-cli",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/docs/stripe-cli\nCall log:\n  - navigating to \"https://stripe.com/docs/stripe-cli\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/connect/platform-controls-for-stripe-dashboard-accounts?edit=true",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/connect/platform-controls-for-stripe-dashboard-accounts?edit=true\nCall log:\n  - navigating to \"https://docs.stripe.com/connect/platform-controls-for-stripe-dashboard-accounts?edit=true\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/cli/terminal/quickstart",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/cli/terminal/quickstart\nCall log:\n  - navigating to \"https://docs.stripe.com/cli/terminal/quickstart\", waiting until \"domcontentloaded\"\n"
+  }
+}

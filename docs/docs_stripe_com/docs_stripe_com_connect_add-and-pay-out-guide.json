@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/connect/add-and-pay-out-guide?dashboard-or-api=dashboard",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/connect/add-and-pay-out-guide?dashboard-or-api=dashboard\nCall log:\n  - navigating to \"https://docs.stripe.com/connect/add-and-pay-out-guide?dashboard-or-api=dashboard\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/identity/verification_sessions/list",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/identity/verification_sessions/list\nCall log:\n  - navigating to \"https://docs.stripe.com/api/identity/verification_sessions/list\", waiting until \"domcontentloaded\"\n"
+  }
+}

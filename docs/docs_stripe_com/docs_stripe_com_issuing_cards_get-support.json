@@ -1,0 +1,8 @@
+{
+  "content": "# Get support for self-service cards\n\n## Learn who to contact for support with self-service cards.\n\nBecause of the different logos displayed on the back of our Issuing cards, it\ncan often be unclear who users should contact for support issues (for example\nStripe, Visa, or their platform).\n\n![Card with branded\nlogo](https://b.stripecdn.com/docs-statics-srv/assets/card_design_stripe_logo.dea346f5e114ab1b898b765ba94d9e9b.png)\n\nA branded card design\n\nBelow we’ve outlined who your point of contact should be with Issuing cards\ndepending on your use case.\n\n## End-user\n\nIf you’ve been provisioned a card by an entity, reach out directly to them for\nsupport issues—Stripe can’t assist end users directly.\n\n## Platform user\n\nIf you’re receiving questions from users of your provisioned cards, you can\n[request support](https://support.stripe.com/contact/login) from Stripe. Make\nsure to inform your cardholders that they need to reach out to you for support\nissues.\n\n## Links\n\n- [request support](https://support.stripe.com/contact/login)",
+  "metadata": {
+    "title": "Get support for self-service cards | Stripe Documentation",
+    "description": "Learn who to contact for support with self-service cards.",
+    "sourceURL": "https://docs.stripe.com/issuing/cards/get-support"
+  }
+}

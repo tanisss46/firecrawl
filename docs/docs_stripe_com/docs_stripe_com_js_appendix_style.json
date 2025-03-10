@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/appendix/style",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/appendix/style\nCall log:\n  - navigating to \"https://docs.stripe.com/js/appendix/style\", waiting until \"domcontentloaded\"\n"
+  }
+}

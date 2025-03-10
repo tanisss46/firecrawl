@@ -1,0 +1,8 @@
+{
+  "content": "# Configure offline mode\n\n## Enable or disable offline mode on your readers.\n\nWhen you’re operating with intermittent, limited, or no network connectivity,\nStripe Terminal allows you to store payments locally on [your POS\ndevice](https://docs.stripe.com/terminal/features/operate-offline/overview).\nWhen a network connection is restored, the SDK automatically forwards any stored\npayments to Stripe.\n\nYou can configure offline mode in the Dashboard or in the Configuration API.\n\nDashboardAPI\nTo enable (or disable) offline mode, navigate to the relevant configuration you\nwant to change and edit it. If adding a new configuration, create a new one\nfirst.\n\n- Navigate to the [Manage\nlocations](https://dashboard.stripe.com/terminal/locations) page.\n- Find the specific location you want to change.\n- Click the overflow menu () > **Edit configuration**.\n- Click **Edit** or **Override** next to the **Offline mode** icon.\n- Enable (or disable) the toggle depending on your preference.\n- Click **Update**.\n- Apply the configuration changes by clicking **Apply changes** on the\nconfiguration drawer.\n\nThe offline mode setting updates on the reader within 10 minutes.\n\n## Links\n\n- [your POS\ndevice](https://docs.stripe.com/terminal/features/operate-offline/overview)\n- [Manage locations](https://dashboard.stripe.com/terminal/locations)",
+  "metadata": {
+    "title": "Configure offline mode | Stripe Documentation",
+    "description": "Enable or disable offline mode on your readers.",
+    "sourceURL": "https://docs.stripe.com/terminal/fleet/offline-mode"
+  }
+}

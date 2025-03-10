@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/issuing/cardholders",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/issuing/cardholders\nCall log:\n  - navigating to \"https://docs.stripe.com/api/issuing/cardholders\", waiting until \"domcontentloaded\"\n"
+  }
+}

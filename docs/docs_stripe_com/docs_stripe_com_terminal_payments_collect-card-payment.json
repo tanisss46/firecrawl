@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/terminal/payments/collect-card-payment?terminal-sdk-platform=api",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/terminal/payments/collect-card-payment?terminal-sdk-platform=api\nCall log:\n  - navigating to \"https://docs.stripe.com/terminal/payments/collect-card-payment?terminal-sdk-platform=api\", waiting until \"domcontentloaded\"\n"
+  }
+}

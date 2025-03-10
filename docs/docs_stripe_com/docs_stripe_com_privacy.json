@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/privacy",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/privacy\nCall log:\n  - navigating to \"https://stripe.com/privacy\", waiting until \"domcontentloaded\"\n"
+  }
+}

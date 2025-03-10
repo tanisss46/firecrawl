@@ -1,0 +1,8 @@
+{
+  "content": "# Charge for shipping\n\n## Create different shipping rates for your customers.\n\nStripe Elements doesn’t support calculating or defining shipping rates out of\nthe box. If you’re in need of this functionality, Stripe recommends coding it\nyourself or using [Checkout](https://docs.stripe.com/payments/checkout).\n\nIf you choose to build this functionality yourself, you can include the shipping\ncost as part of the product price or total amount presented to the customer.\nThis means factoring in the shipping cost when you calculate the total price of\nthe items in the cart or order. By doing so, the customer pays a single amount\nthat includes both the product price and the shipping cost.\n\nHere’s a basic outline of the steps involved:\n\n- **Determine your shipping cost**: Decide on the shipping cost. Factor in\ndestination, weight, distance, or any other criteria applicable to your\nbusiness.\n- **Calculate the total amount**: Add the shipping cost to the price of the\nproducts to calculate the total amount.\n- **Integrate Stripe Elements**: Use the Payment Element to collect the\ncustomer’s payment information.\n- **Present the total amount**: Display the total amount, which includes the\nproduct price and the shipping cost, to the customer on the checkout page.\n- **Process the payment**: When the customer submits the payment information,\nhandle the payment processing in your server-side code.\n\n## Links\n\n- [Checkout](https://docs.stripe.com/payments/checkout)",
+  "metadata": {
+    "title": "Charge for shipping | Stripe Documentation",
+    "description": "Set shipping rates for Stripe's Mobile Elements.",
+    "sourceURL": "https://docs.stripe.com/payments/mobile/charge-shipping"
+  }
+}

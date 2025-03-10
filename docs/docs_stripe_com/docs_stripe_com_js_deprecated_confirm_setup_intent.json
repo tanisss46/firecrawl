@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/deprecated/confirm_setup_intent",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/deprecated/confirm_setup_intent\nCall log:\n  - navigating to \"https://docs.stripe.com/js/deprecated/confirm_setup_intent\", waiting until \"domcontentloaded\"\n"
+  }
+}

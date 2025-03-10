@@ -1,0 +1,8 @@
+{
+  "content": "# Connect an accounting tool\n\n## Integrate your accounting solution with Stripe.\n\nBring your Stripe activity, like payments and invoices, into your current\naccounting workflow. The NetSuite Connector is a prebuilt solution to sync your\nStripe and NetSuite data. The QuickBooks Desktop guide explains how to download\nStripe data for importing to QuickBooks.\n\nFor more options to sync your existing tools with Stripe, see [Stripe\nApps](https://marketplace.stripe.com/).\n\n## Supported integrations\n\n[Stripe Connector for NetSuiteConnect Stripe with NetSuite to automate cash\nreconciliation and accept payments on\ninvoices.](https://docs.stripe.com/connectors/netsuite/overview)[QuickBooks\nDesktopDownload an export of your Stripe account data that you can import into\nyour desktop QuickBooks.](https://docs.stripe.com/reports/quickbooks)\n\n## Links\n\n- [Stripe Apps](https://marketplace.stripe.com/)\n- [Stripe Connector for NetSuiteConnect Stripe with NetSuite to automate cash\nreconciliation and accept payments on\ninvoices.](https://docs.stripe.com/connectors/netsuite/overview)\n- [QuickBooks DesktopDownload an export of your Stripe account data that you can\nimport into your desktop\nQuickBooks.](https://docs.stripe.com/reports/quickbooks)",
+  "metadata": {
+    "title": "Connect an accounting tool | Stripe Documentation",
+    "description": "Learn how to connect your accounting tools with Stripe.",
+    "sourceURL": "https://docs.stripe.com/accounting-integrations"
+  }
+}

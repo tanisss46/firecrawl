@@ -1,0 +1,8 @@
+{
+  "content": "# Stripe Connector for Shopware 6 User Guide\n\n## Learn how to use the Stripe Connector for Shopware 6.\n\n## Payment information at order level\n\nOn the order, the **Payments** tab displays the following details about your\nStripe payment:\n\n- **Description**: Shows the customer email address, Customer ID and Order ID.\n- **Payment Intent Status**: Shows the order’s payment status.\n- **Payment Method**: Identifies the payment instrument used to pay.\n- **Payment Risk Score**: Grades the fraud risk of the payment.\n- **Timeline**: The sequence of events that occurred during payment.\n\n## Cancel a payment\n\nYou can cancel a payment when it’s uncaptured and its status is **Authorized**.\n\n- From Shopware, change the order’s status from **Authorized** to **Cancelled**\n- From the Stripe Dashboard, click the **Cancel** button inside the order.\n\n## Refunds\n\nYou can refund any order with a `Paid` status.\n\n- From the Shopware administration panel, select **Orders** >> **Overview** .\n- Change the order’s payment status from `Paid` to `Refunded`.\n\nShopware doesn’t support partial refunds. Choosing either the `Refunded\n(partially)` or `Refunded` status generates a full refund.",
+  "metadata": {
+    "title": "Stripe Connector for Shopware 6 User Guide | Stripe Documentation",
+    "description": "Learn how to use the Stripe Connector for Shopware 6.",
+    "sourceURL": "https://docs.stripe.com/connectors/shopware6/user-guide"
+  }
+}

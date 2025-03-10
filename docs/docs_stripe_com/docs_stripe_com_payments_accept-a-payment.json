@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/payments/accept-a-payment?platform=react-native&amp%3Bui=custom",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/payments/accept-a-payment?platform=react-native&amp%3Bui=custom\nCall log:\n  - navigating to \"https://docs.stripe.com/payments/accept-a-payment?platform=react-native&amp%3Bui=custom\", waiting until \"domcontentloaded\"\n"
+  }
+}

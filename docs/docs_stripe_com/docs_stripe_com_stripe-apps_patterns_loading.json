@@ -1,0 +1,8 @@
+{
+  "content": "# Loading for Stripe Apps\n\n## Learn how to use the spinner component.\n\nWhen data is loading, use a\n[Spinner](https://docs.stripe.com/stripe-apps/components/spinner) component.\n\n## Before you begin\n\n[Create an app](https://docs.stripe.com/stripe-apps/create-app).\n\n## Suggested use\n\n- Provide some additional context that shows users what kind of data is loading.\nFor example:\n\n![Spinner on a loading\nscreen](https://b.stripecdn.com/docs-statics-srv/assets/loading.5e1021867583f24419ac8df33b89cdb0.png)\n\n## Links\n\n- [Spinner](https://docs.stripe.com/stripe-apps/components/spinner)\n- [Create an app](https://docs.stripe.com/stripe-apps/create-app)",
+  "metadata": {
+    "title": "Loading for Stripe Apps | Stripe Documentation",
+    "description": "Learn how to use the spinner component.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/patterns/loading"
+  }
+}

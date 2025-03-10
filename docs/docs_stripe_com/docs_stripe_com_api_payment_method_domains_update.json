@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/payment_method_domains/update",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/payment_method_domains/update\nCall log:\n  - navigating to \"https://docs.stripe.com/api/payment_method_domains/update\", waiting until \"domcontentloaded\"\n"
+  }
+}

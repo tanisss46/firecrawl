@@ -1,0 +1,8 @@
+{
+  "content": "# Adobe Commerce connectors\n\n## Learn more about our different connectors for Adobe Commerce.\n\nStripe provides two different connectors for Adobe Commerce and Magento open\nsource:\n\n- The [payments\nconnector](https://docs.stripe.com/connectors/adobe-commerce/payments) can be\nused to accept payments from a wide selection of payment methods and to automate\ntax calculation and reporting\n- Use the [standalone tax\nconnector](https://docs.stripe.com/connectors/adobe-commerce/standalone-tax) to\nautomate tax calculation and reporting if you’re not using Stripe to accept\npayments. We don’t recommended it if you’re using our payments connector.\n\n## Links\n\n- [payments\nconnector](https://docs.stripe.com/connectors/adobe-commerce/payments)\n- [standalone tax\nconnector](https://docs.stripe.com/connectors/adobe-commerce/standalone-tax)",
+  "metadata": {
+    "title": "Adobe Commerce connectors | Stripe Documentation",
+    "description": "Learn more about our different connectors for Adobe Commerce.",
+    "sourceURL": "https://docs.stripe.com/connectors/adobe-commerce"
+  }
+}

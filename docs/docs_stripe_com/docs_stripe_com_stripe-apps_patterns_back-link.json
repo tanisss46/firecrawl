@@ -1,0 +1,8 @@
+{
+  "content": "# Back link for Stripe Apps\n\n## Learn how to help your users navigate back to a previous page.\n\nAllow users to navigate to a previous page using back links.\n\n## Before you begin\n\n[Create an app](https://docs.stripe.com/stripe-apps/create-app).\n\n## Suggested use\n\n- Use a [Link](https://docs.stripe.com/stripe-apps/components/link) component\nwith an [Icon](https://docs.stripe.com/stripe-apps/components/icon) component to\nadd a back link.\n- Clearly label where the user is navigating to. For example:\n\n![A back link and arrow to return to previous\nscreen](https://b.stripecdn.com/docs-statics-srv/assets/back-link.4d5f1d9ecc5ff5b94e9973a36115f05a.png)\n\n## Links\n\n- [Create an app](https://docs.stripe.com/stripe-apps/create-app)\n- [Link](https://docs.stripe.com/stripe-apps/components/link)\n- [Icon](https://docs.stripe.com/stripe-apps/components/icon)",
+  "metadata": {
+    "title": "Back link for Stripe Apps | Stripe Documentation",
+    "description": "Learn how to help your users navigate back to a previous page.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/patterns/back-link"
+  }
+}

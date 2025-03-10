@@ -1,0 +1,8 @@
+{
+  "content": "# Add external payment methods\n\n## Add external payment methods to the Mobile Payment Element.\n\nThe [Mobile Payment\nElement](https://docs.stripe.com/payments/elements/mobile-payment-element) can\ndisplay external payment methods that you support in addition to the payment\nmethods processed through Stripe. Integrating external payment methods requires\nadditional integration work, because external payment method transactions are\nprocessed and finalized outside of Stripe.\n\n#### External payment methods responsibility\n\nWhen customers choose an external payment method, your app handles the payment\ninstead of Stripe processing it. To learn about your responsibilities and the\nongoing availability of external payment methods, see the [external payment\nmethods\ndisclaimer](https://docs.stripe.com/payments/mobile/external-payment-methods#external-payment-methods-disclaimer).\n\niOSAndroidReact Native\nReact Native apps don’t support external payment methods.\n\n## This feature is under development.\n\nProvide your email address to join the waitlist.\n\nCollect EmailSign upRead our [privacy policy](https://stripe.com/privacy).\n\n## Links\n\n- [Mobile Payment\nElement](https://docs.stripe.com/payments/elements/mobile-payment-element)\n- [privacy policy](https://stripe.com/privacy)",
+  "metadata": {
+    "title": "Add external payment methods | Stripe Documentation",
+    "description": "Add external payment methods to the Mobile Payment Element.",
+    "sourceURL": "https://docs.stripe.com/payments/mobile/external-payment-methods"
+  }
+}

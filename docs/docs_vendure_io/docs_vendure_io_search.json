@@ -1,0 +1,29 @@
+{
+  "content": "[Skip to main content](https://docs.vendure.io/search#__docusaurus_skipToContent_fallback)\n\n# Search the documentation\n\n[Search by Typesense](https://typesense.org/?utm_medium=referral&utm_content=powered_by&utm_campaign=docsearch)",
+  "metadata": {
+    "url": "https://docs.vendure.io/search",
+    "ogUrl": "https://docs.vendure.io/search",
+    "title": "Search the documentation | Vendure Docs",
+    "og:url": "https://docs.vendure.io/search",
+    "robots": "noindex, follow",
+    "favicon": {},
+    "ogImage": "https://docs.vendure.io/img/docusaurus-social-card.jpg",
+    "ogTitle": "Vendure Docs",
+    "language": "en",
+    "og:image": "https://docs.vendure.io/img/docusaurus-social-card.jpg",
+    "og:title": "Vendure Docs",
+    "ogLocale": "en",
+    "scrapeId": "6eb0b3d6-ec57-4e81-a3fe-7f2d87a3701c",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "generator": "Docusaurus v3.4.0",
+    "og:locale": "en",
+    "sourceURL": "https://docs.vendure.io/search",
+    "statusCode": 200,
+    "twitter:card": "summary_large_image",
+    "twitter:image": "https://docs.vendure.io/img/docusaurus-social-card.jpg",
+    "docusaurus_tag": "default",
+    "docusaurus_locale": "en",
+    "docsearch:language": "en",
+    "docsearch:docusaurus_tag": "default"
+  }
+}

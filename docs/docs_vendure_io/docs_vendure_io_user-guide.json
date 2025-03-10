@@ -1,0 +1,33 @@
+{
+  "content": "[Skip to main content](https://docs.vendure.io/user-guide/#__docusaurus_skipToContent_fallback)\n\n# Vendure User Guide\n\nThis section is for store owners and staff who are charged with running a Vendure-based store.\n\nThis guide assumes that your Vendure instance is running the AdminUiPlugin.\n\nWe will roughly structure this guide to conform to the default layout of the Admin UI main navigation menu.",
+  "metadata": {
+    "url": "https://docs.vendure.io/user-guide/",
+    "ogUrl": "https://docs.vendure.io/user-guide/",
+    "title": "Vendure User Guide | Vendure Docs",
+    "og:url": "https://docs.vendure.io/user-guide/",
+    "favicon": {},
+    "ogImage": "https://docs.vendure.io/img/docusaurus-social-card.jpg",
+    "ogTitle": "Vendure User Guide | Vendure Docs",
+    "language": "en",
+    "og:image": "https://docs.vendure.io/img/docusaurus-social-card.jpg",
+    "og:title": "Vendure User Guide | Vendure Docs",
+    "ogLocale": "en",
+    "scrapeId": "c2627cb6-3730-43e8-86da-10b212dab2e3",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "generator": "Docusaurus v3.4.0",
+    "og:locale": "en",
+    "sourceURL": "https://docs.vendure.io/user-guide/",
+    "statusCode": 200,
+    "description": "This section is for store owners and staff who are charged with running a Vendure-based store.",
+    "twitter:card": "summary_large_image",
+    "ogDescription": "This section is for store owners and staff who are charged with running a Vendure-based store.",
+    "twitter:image": "https://docs.vendure.io/img/docusaurus-social-card.jpg",
+    "docusaurus_tag": "docs-default-current",
+    "og:description": "This section is for store owners and staff who are charged with running a Vendure-based store.",
+    "docsearch:version": "current",
+    "docusaurus_locale": "en",
+    "docsearch:language": "en",
+    "docusaurus_version": "current",
+    "docsearch:docusaurus_tag": "docs-default-current"
+  }
+}

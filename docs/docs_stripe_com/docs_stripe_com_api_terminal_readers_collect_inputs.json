@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/terminal/readers/collect_inputs",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/terminal/readers/collect_inputs\nCall log:\n  - navigating to \"https://docs.stripe.com/api/terminal/readers/collect_inputs\", waiting until \"domcontentloaded\"\n"
+  }
+}

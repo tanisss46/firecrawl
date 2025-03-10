@@ -1,0 +1,8 @@
+{
+  "content": "# Dynamically customize shipping optionsPrivate preview\n\n## Update shipping options based on a customer's shipping address.\n\nStripe-hosted pageEmbedded formEmbedded components\nDynamic updates aren’t available with Stripe-hosted pages.",
+  "metadata": {
+    "title": "Dynamically customize shipping options | Stripe Documentation",
+    "description": "Customize shipping options during checkout, including setting the update permissions of the Checkout Session, adding onShippingDetailsChange event handler to the Checkout client, and updating the shipping options based on the customer's shipping address from your server.",
+    "sourceURL": "https://docs.stripe.com/payments/checkout/custom-shipping-options"
+  }
+}

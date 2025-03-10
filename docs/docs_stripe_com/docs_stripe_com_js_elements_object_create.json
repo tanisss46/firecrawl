@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/elements_object/create",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/elements_object/create\nCall log:\n  - navigating to \"https://docs.stripe.com/js/elements_object/create\", waiting until \"domcontentloaded\"\n"
+  }
+}

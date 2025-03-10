@@ -1,0 +1,8 @@
+{
+  "content": "# Supported locales\n\n## Customize the locale of the PayPal authorization page for your customer.\n\nYou can set the PayPal authorization page to your customer’s preferred locale\nvia the\n[preferred_locale](https://docs.stripe.com/payments/paypal/accept-a-payment#customize-the-preferred-locale)\nproperty. See the table below for supported locales.\n\nValue Localecs-CZCzech - The Czech Republicda-DKDanish - Denmarkde-ATGerman -\nAustriade-DEGerman - Germanyde-LUGerman - Luxembourgel-GRGreek -\nGreeceen-GB - United Kingdomen-US - United States of\nAmericaes-ESSpanish - Spainfr-BEFrench - Belgiumfi-FIFinnish -\nFinlandfr-FRFrench - Francefr-LUFrench - Luxembourghu-HUHungarian -\nHungaryit-ITItalian - Italynl-BEDutch - Belgiumnl-NLDutch -\nNetherlandspl-PLPolish - Polandpt-PTPortuguese - Portugalsk-SKSlovak -\nSlovakiasv-SESwedish - Sweden\n\n## Links\n\n-\n[preferred_locale](https://docs.stripe.com/payments/paypal/accept-a-payment#customize-the-preferred-locale)",
+  "metadata": {
+    "title": "Supported locales | Stripe Documentation",
+    "description": "Customize the locale of the PayPal authorization page for your customer.",
+    "sourceURL": "https://docs.stripe.com/payments/paypal/supported-locales"
+  }
+}

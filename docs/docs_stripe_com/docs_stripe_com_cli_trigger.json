@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/cli/trigger",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/cli/trigger\nCall log:\n  - navigating to \"https://docs.stripe.com/cli/trigger\", waiting until \"domcontentloaded\"\n"
+  }
+}

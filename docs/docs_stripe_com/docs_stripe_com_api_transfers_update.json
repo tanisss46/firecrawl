@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/transfers/update",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/transfers/update\nCall log:\n  - navigating to \"https://docs.stripe.com/api/transfers/update\", waiting until \"domcontentloaded\"\n"
+  }
+}

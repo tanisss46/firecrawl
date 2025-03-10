@@ -1,0 +1,8 @@
+{
+  "content": "# Sign in template for Stripe Apps\n\n## Learn how to use the SignInView component with your app.\n\nIf your app requires users to sign in, the `SignInView` component is required to\nensure users clearly understand that they’re connecting to Stripe.\n\n## Before you begin\n\n[Create an app](https://docs.stripe.com/stripe-apps/create-app).\n\n## Suggested use\n\n- To avoid compromising users’ passwords, never ask users to share their full\nset of credentials with Stripe.\n- Keep content lightweight and focused. Avoid any links that might take users\naway from the onboarding flow. For example:\n\n!\n\n!\n\n- Provide users the option to sign into an existing account or sign up for a new\naccount.\n- Use call-to-action labels that are consistent with your own onboarding flow\noutside of Stripe. For example:\n\n!\n\n## Example\n\nTo add the component to your app:\n\n```\nimport {SignInView} from '@stripe/ui-extension-sdk/ui';\n```\n\nThe following sample shows a `SignInView` component:\n\n```\n<SignInView\n description=\"Connect your SuperTodo account with Stripe.\"\n primaryAction={{label: 'Sign in', href: 'https://example.com'}}\n footerContent={\n <>\n Don't have an account? <Link href=\"https://example.com\">Sign up</Link>\n </>\n }\n brandColor=\"#635bff\"\n brandIcon={appIcon}\n/>\n```\n\n## Links\n\n- [Create an app](https://docs.stripe.com/stripe-apps/create-app)",
+  "metadata": {
+    "title": "Sign in template for Stripe Apps | Stripe Documentation",
+    "description": "Learn how to use the SignInView component with your app.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/patterns/sign-in"
+  }
+}

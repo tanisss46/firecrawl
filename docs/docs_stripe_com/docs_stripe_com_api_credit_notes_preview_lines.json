@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/credit_notes/preview_lines",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/credit_notes/preview_lines\nCall log:\n  - navigating to \"https://docs.stripe.com/api/credit_notes/preview_lines\", waiting until \"domcontentloaded\"\n"
+  }
+}

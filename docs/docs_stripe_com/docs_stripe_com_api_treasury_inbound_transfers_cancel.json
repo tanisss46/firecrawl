@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/treasury/inbound_transfers/cancel",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/treasury/inbound_transfers/cancel\nCall log:\n  - navigating to \"https://docs.stripe.com/api/treasury/inbound_transfers/cancel\", waiting until \"domcontentloaded\"\n"
+  }
+}

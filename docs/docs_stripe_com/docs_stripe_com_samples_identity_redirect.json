@@ -1,0 +1,8 @@
+{
+  "content": "```\n<!DOCTYPE html><html lang=\"en\"> <head> <meta charset=\"utf-8\" /> <title>Stripe\nIdentity Sample</title> <meta name=\"description\" content=\"A demo of Stripe\nIdentity\" />\n<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\" /> <link\nrel=\"stylesheet\" href=\"css/normalize.css\" /> <link rel=\"stylesheet\"\nhref=\"css/global.css\" /> <script src=\"https://js.stripe.com/v3/\"></script>\n</head> <body> <div class=\"sr-root\"> <div class=\"sr-main\"> <div> <h1>Verify your\nidentity to book</h1> <h4>Get ready to take a photo of your ID and a selfie</h4>\n<form action=\"/create-verification-session\" method=\"POST\"> <button\ntype=\"submit\">Verify me</button> </form> </div> </div> </div> </body></html>\n```\n\n## Links\n\n- [modal integration](https://docs.stripe.com/samples/identity/modal)\n- [View on\nGithub](https://github.com/stripe-samples/identity/tree/main/redirect)\n- [Read a related\nguide](https://docs.stripe.com/identity/verify-identity-documents)",
+  "metadata": {
+    "title": "Identity verification (redirect) | Stripe Documentation",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/samples/identity/redirect"
+  }
+}

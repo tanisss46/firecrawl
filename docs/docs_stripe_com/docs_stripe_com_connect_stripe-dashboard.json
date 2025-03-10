@@ -1,0 +1,8 @@
+{
+  "content": "# Stripe Dashboard for connected accounts\n\n## Learn about the features of the Stripe Dashboard for connected accounts.\n\nThe Stripe Dashboard is available to your platform’s connected accounts.\n\n## Stripe Dashboard features\n\nConnected accounts can use the Dashboard to:\n\n- See analytics and charts about business performance\n- View payments, balances, customers, billing, and other products\n- Manage their business information and account settings\n- Handle disputes, refunds, and chargebacks\n- Download reports\n\n## Accessing the Stripe Dashboard\n\nYour connected accounts have access to the Stripe Dashboard after they’ve\ncompleted onboarding. Consider linking to the\n[Dashboard](https://dashboard.stripe.com/) from your application.\n\n## Platform controls\n\nIf you have [platform\ncontrols](https://docs.stripe.com/connect/platform-controls-for-stripe-dashboard-accounts)\nfor a connected account, you can co-brand the Stripe Dashboard. Your platform\nname is displayed in the bottom left corner of the user interface.\n\n## Links\n\n- [configured with\nproperties](https://docs.stripe.com/connect/update-to-typeless-connect)\n- [Dashboard](https://dashboard.stripe.com/)\n- [platform\ncontrols](https://docs.stripe.com/connect/platform-controls-for-stripe-dashboard-accounts)",
+  "metadata": {
+    "title": "Stripe Dashboard for connected accounts | Stripe Documentation",
+    "description": "Learn about the features of the Stripe Dashboard for connected accounts.",
+    "sourceURL": "https://docs.stripe.com/connect/stripe-dashboard"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Query business data\n\n## Use Sigma and Data Pipeline to create queries.\n\nUse Sigma and Data Pipeline to query business and product data, including\ntransactions, disputes, and subscription status.\n\n[Query transactional dataCreate custom reports for charges, refunds, transfers,\nand more.](https://docs.stripe.com/stripe-data/query-transactions)[Query billing\ndataUse Sigma or Data Pipeline to retrieve billing\ninformation.](https://docs.stripe.com/stripe-data/query-billing-data)[Query\nconnected account dataUse Sigma and Data Pipeline to retrieve connected account\ninformation.](https://docs.stripe.com/stripe-data/query-connect-data)\n\n## Links\n\n- [Query transactional dataCreate custom reports for charges, refunds,\ntransfers, and more.](https://docs.stripe.com/stripe-data/query-transactions)\n- [Query billing dataUse Sigma or Data Pipeline to retrieve billing\ninformation.](https://docs.stripe.com/stripe-data/query-billing-data)\n- [Query connected account dataUse Sigma and Data Pipeline to retrieve connected\naccount information.](https://docs.stripe.com/stripe-data/query-connect-data)",
+  "metadata": {
+    "title": "Query business data | Stripe Documentation",
+    "description": "Use Sigma and Data Pipeline to create queries.",
+    "sourceURL": "https://docs.stripe.com/stripe-data/query-data"
+  }
+}

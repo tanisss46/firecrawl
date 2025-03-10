@@ -1,0 +1,8 @@
+{
+  "content": "# Scheduled reports\n\n## Set up report subscriptions to get notified when new data is ready.\n\nIf you frequently download the same report, you can schedule report downloads to\noccur on a daily, weekly, or monthly basis.\n\n## Schedule a report download\n\n- Navigate to the [Reports page](https://dashboard.stripe.com/reports/hub) in\nthe Dashboard and select a report.\n- Click **Schedule…**.\n- Select the schedule (frequency), columns, and currency for each report.\n- Download the report after you receive an email notification that it’s ready.\n\n!\n\n## Stop a scheduled report\n\nTo stop running a scheduled report, set its schedule to `None`.\n\n!\n\n## Links\n\n- [Reports page](https://dashboard.stripe.com/reports/hub)",
+  "metadata": {
+    "title": "Scheduled reports | Stripe Documentation",
+    "description": "Set up report subscriptions to get notified when new data is ready.",
+    "sourceURL": "https://docs.stripe.com/reports/scheduled-reports"
+  }
+}

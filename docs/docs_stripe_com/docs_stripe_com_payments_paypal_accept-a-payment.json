@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/payments/paypal/accept-a-payment?platform=web&ui=stripe-hosted",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/payments/paypal/accept-a-payment?platform=web&ui=stripe-hosted\nCall log:\n  - navigating to \"https://docs.stripe.com/payments/paypal/accept-a-payment?platform=web&ui=stripe-hosted\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Terminal API and SDK references\n\n## Explore the API references for the server-driven integration and Terminal SDKs.\n\n[Server-driven APIExplore the API reference for the Terminal server-driven\nintegration](https://docs.stripe.com/api/terminal/readers)[JavaScript SDKExplore\nthe API reference for the Terminal JavaScript SDK\nv1](https://docs.stripe.com/terminal/references/api/js-sdk)[iOS SDKExplore the\nAPI reference for the Terminal iOS SDK\nv4](https://stripe.dev/stripe-terminal-ios/docs/index.html)[Android SDKExplore\nthe API reference for the Terminal Android SDK\nv4](https://stripe.dev/stripe-terminal-android/)[React Native SDKExplore the API\nreference for the Terminal React Native\nSDK](https://stripe.dev/stripe-terminal-react-native/)\n\n## Links\n\n- [Server-driven APIExplore the API reference for the Terminal server-driven\nintegration](https://docs.stripe.com/api/terminal/readers)\n- [JavaScript SDKExplore the API reference for the Terminal JavaScript SDK\nv1](https://docs.stripe.com/terminal/references/api/js-sdk)\n- [iOS SDKExplore the API reference for the Terminal iOS SDK\nv4](https://stripe.dev/stripe-terminal-ios/docs/index.html)\n- [Android SDKExplore the API reference for the Terminal Android SDK\nv4](https://stripe.dev/stripe-terminal-android/)\n- [React Native SDKExplore the API reference for the Terminal React Native\nSDK](https://stripe.dev/stripe-terminal-react-native/)",
+  "metadata": {
+    "title": "Terminal API and SDK references | Stripe Documentation",
+    "description": "Explore the API references for the server-driven integration and Terminal SDKs.",
+    "sourceURL": "https://docs.stripe.com/terminal/references/api"
+  }
+}

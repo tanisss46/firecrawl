@@ -1,0 +1,8 @@
+{
+  "content": "# Update the Issuing terms of service acceptance\n\n## Learn how to present accurate business information for your connected accounts and accept the Issuing terms of service.\n\nPlatforms must present the account representative with the business information\non file for confirmation prior to submission to Stripe Issuing. Make sure that\nthe account representatives update any information that’s no longer accurate:\n\n- Business Information (including the Tax Identification Number if applicable)\n- Name, date of birth, address, and SSN of account representative and beneficial\nowners\n\n## Reference the terms and disclosures\n\nUnited States (Celtic Bank)United States (Cross River Bank)UK & euro area\nPresent the account representative with a disclosure stating that Celtic Bank, a\nmember of FDIC, issues the cards. Additionally, provide them with all relevant\nlinks to the Issuing program’s [terms and\ndisclosures](https://docs.stripe.com/issuing/compliance-us#issuing-terms). The\nrepresentative must accept the terms to complete their application.\n\n## Links\n\n- [terms and\ndisclosures](https://docs.stripe.com/issuing/compliance-us#issuing-terms)",
+  "metadata": {
+    "title": "Update the Issuing terms of service acceptance | Stripe Documentation",
+    "description": "Learn how to present accurate business information for your connected accounts and accept the Issuing terms of service.",
+    "sourceURL": "https://docs.stripe.com/issuing/connect/tos_acceptance"
+  }
+}

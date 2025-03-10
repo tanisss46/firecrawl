@@ -1,0 +1,8 @@
+{
+  "content": "# Custom reports by Sigma and SDP\n\n## Learn how to build your own Revenue Recognition reports using Sigma and SDP.\n\nYou can build your customized reports using\n`revenue_recognition_debits_and_credits` and other tables in\n[Sigma](https://docs.stripe.com/stripe-data/access-data-in-dashboard).\n\n## Recognized revenue from unpaid invoices example\n\nThis sample query generates a report for revenue recognized from the unpaid open\ninvoices and groups the invoices by invoice ID. You can add your desired time\nframes and adjust the grouping parameters.\n\n#### Note\n\nIf you’re using our [chart of\naccounts](https://docs.stripe.com/revenue-recognition/chart-of-accounts) beta\nfeature, be sure to update the `debit` and `credit` mappings in the query below\nto reflect the accounts in your general ledger.\n\n```\nwith revrec as (\n select\n *\n from\n revenue_recognition_debits_and_credits\n where\n debit = 'DeferredRevenue' and credit = 'Revenue'\n), sigmainv as (\n select\n *\n from\n invoices\n where\n status = 'open'\n)\nselect\n revrec.invoice_id,\n SUM(revrec.presentment_amount) AS recognized_revenue\nfrom\n sigmainv\n left join revrec on revrec.invoice_id = sigmainv.id\ngroup by revrec.invoice_id\n```\n\n## Links\n\n- [Sigma](https://docs.stripe.com/stripe-data/access-data-in-dashboard)\n- [chart of\naccounts](https://docs.stripe.com/revenue-recognition/chart-of-accounts)",
+  "metadata": {
+    "title": "Custom reports by Sigma and SDP | Stripe Documentation",
+    "description": "Learn how to build your own Revenue Recognition reports using Sigma and SDP.",
+    "sourceURL": "https://docs.stripe.com/revenue-recognition/reports/sigma-and-sdp"
+  }
+}

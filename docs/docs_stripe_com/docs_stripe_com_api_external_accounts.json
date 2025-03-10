@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/external_accounts",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/external_accounts\nCall log:\n  - navigating to \"https://docs.stripe.com/api/external_accounts\", waiting until \"domcontentloaded\"\n"
+  }
+}

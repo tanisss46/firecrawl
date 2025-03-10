@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/payment_methods",
+    "error": "Page.goto: net::ERR_NETWORK_CHANGED at https://docs.stripe.com/api/payment_methods\nCall log:\n  - navigating to \"https://docs.stripe.com/api/payment_methods\", waiting until \"domcontentloaded\"\n"
+  }
+}

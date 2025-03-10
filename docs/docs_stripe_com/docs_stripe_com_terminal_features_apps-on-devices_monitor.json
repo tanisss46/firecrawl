@@ -1,0 +1,8 @@
+{
+  "content": "# Monitor your deployment\n\n## Monitor your Android apps on Stripe SmartPOS Android devices.\n\nAfter you deploy your app, you can monitor its deployment progress using the\nStripe Dashboard. This allows you to investigate any issues during deployment\nand to deploy a new app, if needed.\n\nFollow these steps to monitor your app:\n\n- In the Stripe Dashboard, click **Developers** > **Apps**.\n- On the [Terminal\napps](https://dashboard.stripe.com/terminal/apps_on_devices/apps) tab, choose\nthe app that you want to monitor.\n- On the app details page, under **App info**, choose the release version to\nview the deployment status and number of Stripe readers in that status.\nDeployment statusDescriptionPendingThe device has downloaded the app and is\nwaiting for the app to install when the device reboots.InstalledThe app has\nsuccessfully installed on the device.FailedAn error occurred while attempting to\ninstall the app on the device.\n## See also\n\n-\n[Troubleshooting](https://docs.stripe.com/terminal/features/apps-on-devices/troubleshooting)\n\n## Links\n\n- [Terminal apps](https://dashboard.stripe.com/terminal/apps_on_devices/apps)\n-\n[Troubleshooting](https://docs.stripe.com/terminal/features/apps-on-devices/troubleshooting)",
+  "metadata": {
+    "title": "Monitor your deployment | Stripe Documentation",
+    "description": "Monitor your Android apps on Stripe SmartPOS Android devices.",
+    "sourceURL": "https://docs.stripe.com/terminal/features/apps-on-devices/monitor"
+  }
+}

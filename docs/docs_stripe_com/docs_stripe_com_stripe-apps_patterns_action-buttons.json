@@ -1,0 +1,8 @@
+{
+  "content": "# Action buttons for Stripe Apps\n\n## Learn where to add action buttons in your Stripe app.\n\nKeep action buttons in a consistent place.\n\n## Before you begin\n\n[Create an app](https://docs.stripe.com/stripe-apps/create-app).\n\n## Suggested use\n\n- Place action buttons in the header to make sure they’re visible to users, even\nwhen content flows off-screen.\n- When content areas don’t require a scroll bar, place buttons below the\ncontent. For example:\n\n![Action buttons in the header actions\nsection](https://b.stripecdn.com/docs-statics-srv/assets/action-buttons.f204ac997c38fd5c2d63d6775da482a0.png)\n\nAction buttons in the header\n\n## Links\n\n- [Create an app](https://docs.stripe.com/stripe-apps/create-app)",
+  "metadata": {
+    "title": "Action buttons for Stripe Apps | Stripe Documentation",
+    "description": "Learn where to add action buttons in your Stripe app.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/patterns/action-buttons"
+  }
+}

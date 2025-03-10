@@ -1,0 +1,8 @@
+{
+  "content": "# Settling in additional currencies\n\n## Learn how paying out funds in currencies other than your primary currency affects your processing fees.\n\nInternational businesses might need to settle and pay out funds in different\ncurrencies. The processing fees you pay depend on how you settle funds\ninternationally.\n\n## Settling in a different currency\n\nWhen you settle funds to your Stripe account in a currency other than the\nprimary currency of your Stripe account country, Stripe applies processing fees\nin that currency. Use the table below to see the acquiring fees for card usage\nin each currency.\n\nLoading a table of settlement fees\n## Payouts in a different currency\n\nAny payouts from your Stripe account in a currency other than the primary\ncurrency of the country of the recipient bank account incur a fee. Certain\npayouts to non-domestic bank accounts also incur a fee. For more information on\npayout fees, see our [payout docs](https://docs.stripe.com/payouts).\n\n## Links\n\n- [payout docs](https://docs.stripe.com/payouts)",
+  "metadata": {
+    "title": "Settling in additional currencies | Stripe Documentation",
+    "description": "Learn how paying out funds in currencies other than your primary currency affects your processing fees.",
+    "sourceURL": "https://docs.stripe.com/currencies/settlement-fees"
+  }
+}

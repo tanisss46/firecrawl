@@ -1,0 +1,8 @@
+{
+  "content": "# Install the connector\n\n## Install the Stripe Tax Connector for WooCommerce.\n\nUse the Stripe Tax Connector for WooCommerce to automatically calculate [sales\ntax, VAT, and GST](https://docs.stripe.com/tax/calculating) for all of your\ntransactions.\n\n### Install the connector\n\n- On the [Stripe Tax for\nWooCommerce](https://woocommerce.com/products/stripe-tax/) product page, click\n**Add to store**.\n- Complete the checkout form, and then click **Place free order**.\n- After completing your order, click **Add to store**.\n- On the **Add your store** page, enter the URL of the store you want to add the\nconnector to, and click **Add to store**.\n- After you receive confirmation of installation, you can [configure the\nconnector](https://docs.stripe.com/connectors/woocommerce/configuration).\n\n## See also\n\n- [Configure the\nconnector](https://docs.stripe.com/connectors/woocommerce/configuration)\n- [Test and troubleshoot the\nconnector](https://docs.stripe.com/connectors/woocommerce/troubleshooting)\n\n## Links\n\n- [sales tax, VAT, and GST](https://docs.stripe.com/tax/calculating)\n- [Stripe Tax for WooCommerce](https://woocommerce.com/products/stripe-tax/)\n- [configure the\nconnector](https://docs.stripe.com/connectors/woocommerce/configuration)\n- [Test and troubleshoot the\nconnector](https://docs.stripe.com/connectors/woocommerce/troubleshooting)",
+  "metadata": {
+    "title": "Install the connector | Stripe Documentation",
+    "description": "Install the Stripe Tax Connector for WooCommerce.",
+    "sourceURL": "https://docs.stripe.com/connectors/woocommerce/installation"
+  }
+}

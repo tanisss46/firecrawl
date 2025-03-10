@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/visa-checkout/legal",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/visa-checkout/legal\nCall log:\n  - navigating to \"https://stripe.com/visa-checkout/legal\", waiting until \"domcontentloaded\"\n"
+  }
+}

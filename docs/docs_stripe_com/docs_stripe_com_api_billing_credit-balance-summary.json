@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/billing/credit-balance-summary",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/billing/credit-balance-summary\nCall log:\n  - navigating to \"https://docs.stripe.com/api/billing/credit-balance-summary\", waiting until \"domcontentloaded\"\n"
+  }
+}

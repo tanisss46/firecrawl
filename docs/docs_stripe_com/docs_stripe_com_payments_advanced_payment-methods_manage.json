@@ -1,0 +1,8 @@
+{
+  "content": "# Manage payment methods\n\n## Optimize payment methods for your integration.\n\n[Add external payment methodsAdd external payment methods to the Payment\nElement.](https://docs.stripe.com/payments/external-payment-methods)[Customize\npayment methodsChoose how the Payment Element displays payment\nmethods.](https://docs.stripe.com/payments/customize-payment-methods)[Save and\nretrieve customer payment methodsLearn more about saved payment methods in the\nPayment\nElement.](https://docs.stripe.com/payments/save-customer-payment-methods)[Payment\nMethod Messaging ElementAutomatically explain buy now, pay later payment\noptions.](https://docs.stripe.com/payments/payment-method-messaging)\n\n## Links\n\n- [Add external payment methodsAdd external payment methods to the Payment\nElement.](https://docs.stripe.com/payments/external-payment-methods)\n- [Customize payment methodsChoose how the Payment Element displays payment\nmethods.](https://docs.stripe.com/payments/customize-payment-methods)\n- [Save and retrieve customer payment methodsLearn more about saved payment\nmethods in the Payment\nElement.](https://docs.stripe.com/payments/save-customer-payment-methods)\n- [Payment Method Messaging ElementAutomatically explain buy now, pay later\npayment options.](https://docs.stripe.com/payments/payment-method-messaging)",
+  "metadata": {
+    "title": "Manage payment methods | Stripe Documentation",
+    "description": "Optimize payment methods for your integration.",
+    "sourceURL": "https://docs.stripe.com/payments/advanced/payment-methods/manage"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/treasury/credit_reversals/retrieve",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/treasury/credit_reversals/retrieve\nCall log:\n  - navigating to \"https://docs.stripe.com/api/treasury/credit_reversals/retrieve\", waiting until \"domcontentloaded\"\n"
+  }
+}

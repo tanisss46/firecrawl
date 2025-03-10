@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/payments/payment-methods-guide",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/payments/payment-methods-guide\nCall log:\n  - navigating to \"https://stripe.com/payments/payment-methods-guide\", waiting until \"domcontentloaded\"\n"
+  }
+}

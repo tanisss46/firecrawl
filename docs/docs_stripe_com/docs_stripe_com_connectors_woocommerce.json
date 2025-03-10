@@ -1,0 +1,8 @@
+{
+  "content": "# Stripe Tax Connector for WooCommerce\n\n## Learn about the Stripe Tax Connector for WooCommerce.\n\nUse the Stripe Tax Connector for WooCommerce to automatically calculate [sales\ntax, VAT, and GST](https://docs.stripe.com/tax/calculating) and apply the\naccurate tax rate for all of your transactions.\n\n- Know where to register: Understand where you need to collect taxes so that you\ncan activate tax collection in over 50 countries and all US states. Stripe Tax\nfor WooCommerce supports both country and VAT OSS registrations in Europe, and\ncountry and provincial registrations in Canada.\n- Automate tax collection: Calculate and collect the correct amount of tax.\nStripe Tax for WooCommerce supports tax collection on hundreds of products and\nservices, and maintains updated tax rules and rates.\n- Reconcile transactions: Stripe Tax for WooCommerce summarizes reports to match\nformatting requirements for each filing location so you can file and remit taxes\non your own, with your accountant, or with a preferred partner.\n\nStripe Tax pricing is usage-based. For Stripe Tax Connector for WooCommerce\npricing, see the [API integration with Stripe\nTax](https://support.stripe.com/questions/understanding-stripe-tax-pricing).\n\n## Links\n\n- [sales tax, VAT, and GST](https://docs.stripe.com/tax/calculating)\n- [API integration with Stripe\nTax](https://support.stripe.com/questions/understanding-stripe-tax-pricing)",
+  "metadata": {
+    "title": "Stripe Tax Connector for WooCommerce | Stripe Documentation",
+    "description": "Learn about the Stripe Tax Connector for WooCommerce.",
+    "sourceURL": "https://docs.stripe.com/connectors/woocommerce"
+  }
+}

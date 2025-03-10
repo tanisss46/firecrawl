@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/atlas/business-taxes?business-type=ccorp",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/atlas/business-taxes?business-type=ccorp\nCall log:\n  - navigating to \"https://docs.stripe.com/atlas/business-taxes?business-type=ccorp\", waiting until \"domcontentloaded\"\n"
+  }
+}

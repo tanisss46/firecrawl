@@ -1,0 +1,8 @@
+{
+  "content": "# Test why a specific payment method doesn't appear\n\n## Force a payment method to appear so you can test it.\n\nSome payment methods only appear when specific conditions are met. For cases\nwhere you can’t get a specific payment method to appear, you can force-enable it\nwith a small change in the Stripe module. If you then navigate to the checkout\npage, it displays an error that explains the reason the payment method is\nunavailable.\n\n## Debugging approach\n\nFor example, say that Klarna doesn’t appear at checkout. To find out the reason,\nopen `Helper/PaymentMethodTypes.php` and make the following adjustment:\n\n```\n@@ -15,6 +15,8 @@ class PaymentMethodTypes\n\n public function getPaymentMethodTypes()\n {\n return ['klarna'];\n }\n\n```\n\nIf you now navigate to the checkout page, an error is displayed explaining why\nklarna is unavailable.\n\nFor more payment method codes, [click\nhere](https://docs.stripe.com/connect/account-capabilities#payment-methods).\n\n## Links\n\n- [click\nhere](https://docs.stripe.com/connect/account-capabilities#payment-methods)",
+  "metadata": {
+    "title": "Test why a specific payment method doesn't appear | Stripe Documentation",
+    "description": "Force a payment method to appear so you can test it.",
+    "sourceURL": "https://docs.stripe.com/connectors/adobe-commerce/cookbooks/test-specific-method"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Automated collections for invoices\n\n## Automate your reconciliation, collection, and charging processes.\n\nStripe offers several ways to automate your processes for cash reconciliation,\nrevenue recovery, and automatically charging stored payment methods.\n\n[Automatic reconciliationLet Stripe handle the cash reconciliation for credit\ntransfer payment\nmethods.](https://docs.stripe.com/invoicing/automatic-reconciliation)[Automatic\ncollectionAutomate revenue recovery process, such as Smart Retries and email\nreminders.](https://docs.stripe.com/invoicing/automatic-collection)[Automatic\nchargingHave Stripe automatically charge a customer’s stored payment\nmethod.](https://docs.stripe.com/invoicing/automatic-charging)\n\n## Links\n\n- [Automatic reconciliationLet Stripe handle the cash reconciliation for credit\ntransfer payment\nmethods.](https://docs.stripe.com/invoicing/automatic-reconciliation)\n- [Automatic collectionAutomate revenue recovery process, such as Smart Retries\nand email reminders.](https://docs.stripe.com/invoicing/automatic-collection)\n- [Automatic chargingHave Stripe automatically charge a customer’s stored\npayment method.](https://docs.stripe.com/invoicing/automatic-charging)",
+  "metadata": {
+    "title": "Automated collections for invoices | Stripe Documentation",
+    "description": "Automate your reconciliation, collection, and charging processes.",
+    "sourceURL": "https://docs.stripe.com/invoicing/automated-collections"
+  }
+}

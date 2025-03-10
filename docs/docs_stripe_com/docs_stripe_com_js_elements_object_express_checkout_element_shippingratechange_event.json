@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/elements_object/express_checkout_element_shippingratechange_event",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/elements_object/express_checkout_element_shippingratechange_event\nCall log:\n  - navigating to \"https://docs.stripe.com/js/elements_object/express_checkout_element_shippingratechange_event\", waiting until \"domcontentloaded\"\n"
+  }
+}

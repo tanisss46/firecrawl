@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/capital/financing_summary_object",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/capital/financing_summary_object\nCall log:\n  - navigating to \"https://docs.stripe.com/api/capital/financing_summary_object\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Divider component for Stripe Apps\n\n## Render a simple horizontal rule with the divider component.\n\nSDK version8.x9.x\nTo add the `Divider` component to your app:\n\n```\nimport {Divider} from '@stripe/ui-extension-sdk/ui';\n```\n\nLoading example...\n```\n<Box\n css={{\n width: 'fill',\n backgroundColor: 'surface',\n padding: 'medium',\n borderRadius: 'medium',\n }}\n>\n <Divider />\n</Box>\n```\n\nThis component has no props.\n\n## See also\n\n- [Design patterns to follow](https://docs.stripe.com/stripe-apps/patterns)\n- [Style your app](https://docs.stripe.com/stripe-apps/style)\n- [UI testing](https://docs.stripe.com/stripe-apps/ui-testing)\n\n## Links\n\n- [Design patterns to follow](https://docs.stripe.com/stripe-apps/patterns)\n- [Style your app](https://docs.stripe.com/stripe-apps/style)\n- [UI testing](https://docs.stripe.com/stripe-apps/ui-testing)",
+  "metadata": {
+    "title": "Divider component for Stripe Apps | Stripe Documentation",
+    "description": "Render a simple horizontal rule with the divider component.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/components/divider"
+  }
+}

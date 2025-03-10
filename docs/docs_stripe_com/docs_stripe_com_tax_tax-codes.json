@@ -1,0 +1,8 @@
+{
+  "content": "# Product tax codes\n\n## Stripe Tax uses product tax codes to determine a product's tax rate.\n\n#### Note\n\n.\n## See also\n\n- [Products, prices, tax codes, and tax\nbehavior](https://docs.stripe.com/tax/products-prices-tax-codes-tax-behavior)\n- [Set up Stripe Tax](https://docs.stripe.com/tax/set-up)\n- [Registering for tax](https://docs.stripe.com/tax/registering)\n\n## Links\n\n- [Log in](https://dashboard.stripe.com/settings/tax)\n- [sign up](https://dashboard.stripe.com/register)\n- [each of your products\nindividually](https://dashboard.stripe.com/products?active=true)\n- [using the API](https://docs.stripe.com/api/tax_codes/list)\n- [privacy policy](https://stripe.com/privacy)\n- [Products, prices, tax codes, and tax\nbehavior](https://docs.stripe.com/tax/products-prices-tax-codes-tax-behavior)\n- [Set up Stripe Tax](https://docs.stripe.com/tax/set-up)\n- [Registering for tax](https://docs.stripe.com/tax/registering)",
+  "metadata": {
+    "title": "Product tax codes | Stripe Documentation",
+    "description": "Stripe Tax uses product tax codes to determine a product's tax rate.",
+    "sourceURL": "https://docs.stripe.com/tax/tax-codes"
+  }
+}

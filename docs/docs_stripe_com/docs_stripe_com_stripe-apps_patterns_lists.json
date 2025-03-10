@@ -1,0 +1,8 @@
+{
+  "content": "# Lists for Stripe Apps\n\n## Learn how to use the list component when building Stripe apps.\n\nUse lists to display collections of information.\n\n## Before you begin\n\n[Create an app](https://docs.stripe.com/stripe-apps/create-app).\n\n## Suggested use\n\n- If you want the rows in your list to be clickable, use a\n[List](https://docs.stripe.com/stripe-apps/components/list) component. A `List`\ncan contain an icon and an image in certain treatments.\n\n![Using the List\ncomponent](https://b.stripecdn.com/docs-statics-srv/assets/listview.81a323e2c2191dc2551c503fa9d97cfa.png)\n\n- For deeper control of the design, compose a custom list item. Rows in custom\nlists aren’t clickable. Add a link or button for the user to click.\n\n![Custom\nlist](https://b.stripecdn.com/docs-statics-srv/assets/custom-lists-01.3e7fec90ee2c9da310e6eb35cf5fea7f.png)\n\n![Alternate custom\nlist](https://b.stripecdn.com/docs-statics-srv/assets/custom-lists-02.c9ae81f00f993878c5008ab232bd9604.png)\n\n## Links\n\n- [Create an app](https://docs.stripe.com/stripe-apps/create-app)\n- [List](https://docs.stripe.com/stripe-apps/components/list)",
+  "metadata": {
+    "title": "Lists for Stripe Apps | Stripe Documentation",
+    "description": "Learn how to use the list component when building Stripe apps.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/patterns/lists"
+  }
+}

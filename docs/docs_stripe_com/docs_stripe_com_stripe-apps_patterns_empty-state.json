@@ -1,0 +1,8 @@
+{
+  "content": "# Empty state for Stripe Apps\n\n## Let users know when no data is available to load.\n\nMake it clear to users when there isn’t any data available to load.\n\n## Before you begin\n\n[Create an app](https://docs.stripe.com/stripe-apps/create-app).\n\n## Suggested use\n\n- If the user needs to be in a specific place in the Dashboard, link directly to\nthat page (for example, Customers or Payments). For example:\n\n![Empty state screens for new users of an\napp](https://b.stripecdn.com/docs-statics-srv/assets/empty-state.50226e2a26e5462dffee81c8b8cb19fb.png)\n\n## Links\n\n- [Create an app](https://docs.stripe.com/stripe-apps/create-app)",
+  "metadata": {
+    "title": "Empty state for Stripe Apps | Stripe Documentation",
+    "description": "Let users know when no data is available to load.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/patterns/empty-state"
+  }
+}

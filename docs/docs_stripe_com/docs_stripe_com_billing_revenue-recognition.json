@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/billing/revenue-recognition",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/billing/revenue-recognition\nCall log:\n  - navigating to \"https://docs.stripe.com/billing/revenue-recognition\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://stripe.com/contact/sales",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://stripe.com/contact/sales\nCall log:\n  - navigating to \"https://stripe.com/contact/sales\", waiting until \"domcontentloaded\"\n"
+  }
+}

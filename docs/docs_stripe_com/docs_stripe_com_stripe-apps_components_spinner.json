@@ -1,0 +1,8 @@
+{
+  "content": "# Spinner component for Stripe Apps\n\n## Use the Spinner component to indicate something is loading.\n\nSDK version8.x9.x\nTo add the `Spinner` component to your app:\n\n```\nimport {Spinner} from '@stripe/ui-extension-sdk/ui';\n```\n\nThis is a preview of a `Spinner` component in three sizes:\n\nLoading example...\n```\n<Box\n css={{\n stack: 'y',\n gap: 'medium',\n alignX: 'center',\n backgroundColor: 'surface',\n padding: 'medium',\n borderRadius: 'medium',\n }}\n>\n <Spinner size=\"small\" />\n <Spinner />\n <Spinner size=\"large\" />\n</Box>\n```\n\n### Spinner props\n\nPropertyType\n`delay`\n\nOptional\n`number | undefined`\n\nDelay applied to animation.\n\n`size`\n\nOptional\n`(\"small\" | \"medium\" | \"large\") | undefined`\n\nThe size of the component.\n\n## See also\n\n- [Design patterns to follow](https://docs.stripe.com/stripe-apps/patterns)\n- [Style your app](https://docs.stripe.com/stripe-apps/style)\n- [UI testing](https://docs.stripe.com/stripe-apps/ui-testing)\n\n## Links\n\n- [Design patterns to follow](https://docs.stripe.com/stripe-apps/patterns)\n- [Style your app](https://docs.stripe.com/stripe-apps/style)\n- [UI testing](https://docs.stripe.com/stripe-apps/ui-testing)",
+  "metadata": {
+    "title": "Spinner component for Stripe Apps | Stripe Documentation",
+    "description": "Use the Spinner component to indicate something is loading.",
+    "sourceURL": "https://docs.stripe.com/stripe-apps/components/spinner"
+  }
+}

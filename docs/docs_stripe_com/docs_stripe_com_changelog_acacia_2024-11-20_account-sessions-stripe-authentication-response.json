@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/changelog/acacia/2024-11-20/account-sessions-stripe-authentication-response",
+    "error": "Page.goto: Timeout 120000ms exceeded.\nCall log:\n  - navigating to \"https://docs.stripe.com/changelog/acacia/2024-11-20/account-sessions-stripe-authentication-response\", waiting until \"domcontentloaded\"\n"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Installments\n\n## Learn about credit card payments using installments.\n\nInstallments are a type of credit card payment that allows customers to split\npurchases over multiple billing statements.\n\n## Get started\n\n[Mastercard InstallmentsCustomers who have a Mastercard Installments virtual\ncard can pay in 4 interest-free installments during\ncheckout.](https://docs.stripe.com/payments/mastercard-installments)[Mexico\ninstallmentsInstallments (meses sin intereses) is a feature of consumer credit\ncards in Mexico that allows customers to split purchases over multiple billing\nstatements.](https://docs.stripe.com/payments/mx-installments)\n\n## Links\n\n- [Mastercard InstallmentsCustomers who have a Mastercard Installments virtual\ncard can pay in 4 interest-free installments during\ncheckout.](https://docs.stripe.com/payments/mastercard-installments)\n- [Mexico installmentsInstallments (meses sin intereses) is a feature of\nconsumer credit cards in Mexico that allows customers to split purchases over\nmultiple billing statements.](https://docs.stripe.com/payments/mx-installments)",
+  "metadata": {
+    "title": "Installments | Stripe Documentation",
+    "description": "Learn about credit card payments using installments.",
+    "sourceURL": "https://docs.stripe.com/payments/installments"
+  }
+}

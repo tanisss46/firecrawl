@@ -1,0 +1,8 @@
+{
+  "content": "# Python PGP key\n\n## Learn how to use the Python client library PGP key.\n\nIf you’re unfamiliar with PGP, see [GPG](http://gnupg.org/) and start by\n[importing a public key](http://www.gnupg.org/gph/en/manual.html#AEN84). After\nyou familiarize yourself with the basics of PGP, use this PGP key as it’s marked\nas trusted for the [Python client\nlibrary](https://github.com/stripe/stripe-python).\n\n#### Note\n\nIf you have any questions, or encounter any issues, please contact us at\n[support-migrations@stripe.com](mailto:support-migrations@stripe.com).\n\n### Python PGP key\n\nAfter you import the key, you can encrypt files by running:\n\n```\ngpg --encrypt --recipient 05D02D3D57ABFF46 FILENAME\n\n```\n\nThis creates **FILENAME.gpg** with the following information:\n\n- **Key ID**: `05D02D3D57ABFF46`\n- **Key type**: RSA\n- **Key size**: 2048 bits\n- **Fingerprint**: `C330 33E4 B583 FE61 2EDE 877C 05D0 2D3D 57AB FF46`\n- **User ID**: `Stripe <security@stripe.com>`\n\n## Links\n\n- [GPG](http://gnupg.org)\n- [importing a public key](http://www.gnupg.org/gph/en/manual.html#AEN84)\n- [Python client library](https://github.com/stripe/stripe-python)",
+  "metadata": {
+    "title": "Python PGP key | Stripe Documentation",
+    "description": "Learn how to use the Python client library PGP key.",
+    "sourceURL": "https://docs.stripe.com/security/python-client-pgp-key"
+  }
+}

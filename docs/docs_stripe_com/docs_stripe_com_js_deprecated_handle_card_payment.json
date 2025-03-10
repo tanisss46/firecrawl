@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/deprecated/handle_card_payment",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/deprecated/handle_card_payment\nCall log:\n  - navigating to \"https://docs.stripe.com/js/deprecated/handle_card_payment\", waiting until \"domcontentloaded\"\n"
+  }
+}

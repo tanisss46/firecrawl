@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/api/tax/registrations",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/api/tax/registrations\nCall log:\n  - navigating to \"https://docs.stripe.com/api/tax/registrations\", waiting until \"domcontentloaded\"\n"
+  }
+}

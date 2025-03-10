@@ -1,0 +1,8 @@
+{
+  "content": "# API Worksheet BillingPublic preview\n\n## Use the in-browser Stripe Shell to practice implementing key business processes.\n\nThis worksheet covers some of our APIs for creating subscriptions and invoices.\nAPI Worksheets help you check your understanding of Stripe’s APIs, they assume\nthat you’ve already learned the fundamentals. If you’re training for Stripe’s\nPartner Program, these worksheets are a good follow up to the e-learning course\nmaterial. If you’re learning how to use Stripe on your own, consider first\nexploring our Quickstart guide on implementing a custom payment flow.\n\nTo begin, click the **Get Started** button on the first section to get your\nfirst prompt. Read the prompt text carefully, and submit your response by typing\nin the input field and pressing the **Enter** key.\n\n[Subscriptions](https://docs.stripe.com/worksheets/billing#subscriptions)\nHelp Taylor set up a guitar lesson subscription and coupon.\n\nGet started[Invoices](https://docs.stripe.com/worksheets/billing#invoices)\nHelp a local band pay a vocalist to join them for one gig.\n\nGet started[Billing\nterminology](https://docs.stripe.com/worksheets/billing#billing-terminology)\nLearn more about the Stripe Billing terminology.\n\nGet started",
+  "metadata": {
+    "title": "API Worksheet Billing | Stripe Documentation",
+    "description": "Use the in-browser Stripe Shell to practice implementing key business processes.",
+    "sourceURL": "https://docs.stripe.com/worksheets/billing"
+  }
+}

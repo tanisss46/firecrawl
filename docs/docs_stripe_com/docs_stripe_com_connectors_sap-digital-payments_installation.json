@@ -1,0 +1,8 @@
+{
+  "content": "# Stripe adapter for SAP Digital Payments Add-on\n\n## Learn how to install SAP Digital Payments Add-on (DPA).\n\n## Installation\n\nFollow these steps to install the SAP DPA:\n\n- Install and configure the SAP DPA (directly from SAP).\n- [Onboard the DPA\ntenant](https://us-prod-dpa-doc.sap.stripeconnectors.com/docs/StripeSAPDPAAdapterUserGuide.pdf)\non the Stripe Connector.\n\n## Links\n\n- [Onboard the DPA\ntenant](https://us-prod-dpa-doc.sap.stripeconnectors.com/docs/StripeSAPDPAAdapterUserGuide.pdf)",
+  "metadata": {
+    "title": "Stripe adapter for SAP Digital Payments Add-on | Stripe Documentation",
+    "description": "Learn how to install SAP Digital Payments Add-on (DPA).",
+    "sourceURL": "https://docs.stripe.com/connectors/sap-digital-payments/installation"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": "# Stripe CapitalPrivate preview\n\n## Offer financing to your users through Stripe Capital.\n\nStripe Capital provides access to financing options for eligible users\nprocessing payments through Stripe. Financing offers for eligible users are\navailable in the Stripe Dashboard or through participating Connect platforms.\n\n[Connect](https://docs.stripe.com/connect) platforms can build a customized\nfinancing program for their customers. Stripe manages the sourcing of funds,\nunderwriting, and assists with regulatory compliance, as overseen by our bank\npartner.\n\nAll loans are issued by Celtic Bank unless otherwise stated.\n\n[How Capital WorksLearn how to get started with Capital if you’re a Stripe\nuser](https://docs.stripe.com/capital/how-stripe-capital-works)[Offer Stripe\nfinancing to connected accountsLearn how to set up Capital for\nPlatformsBeta](https://docs.stripe.com/capital/getting-started)\n\n## Links\n\n- [Connect](https://docs.stripe.com/connect)\n- [How Capital WorksLearn how to get started with Capital if you’re a Stripe\nuser](https://docs.stripe.com/capital/how-stripe-capital-works)\n- [Offer Stripe financing to connected accountsLearn how to set up Capital for\nPlatformsBeta](https://docs.stripe.com/capital/getting-started)",
+  "metadata": {
+    "title": "Stripe Capital | Stripe Documentation",
+    "description": "Offer financing to your users through Stripe Capital.",
+    "sourceURL": "https://docs.stripe.com/capital/overview"
+  }
+}

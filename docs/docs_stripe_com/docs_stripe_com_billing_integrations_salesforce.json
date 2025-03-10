@@ -1,0 +1,8 @@
+{
+  "content": "# Integrate Stripe Billing with Salesforce\n\n## Use Stripe with your Salesforce workflows and processes.\n\nUse the guidance on this page to learn how integrating Stripe with Salesforce\ncan help support your business needs.\n\nCombine Stripe Billing and Salesforce for the following benefits:\n\n- Automatically create or update subscriptions on Stripe based on Salesforce\nactivity (for example, when your sales team activates an order).\n- Model complex sales contracts using features in Stripe Billing, such as\nsubscription schedules, tiered prices, and usage-based (metered) billing.\n- Generate links from within Salesforce to secure Stripe-hosted pages that allow\nyour customers to save a payment method on file.\n- View the latest state of subscriptions and invoices of a customer from within\nSalesforce.\n\nRefer to the following guides, depending on your business needs:\n\n[Stripe Connector for SalesforceUse the Stripe Connector for Salesforce to build\nan integration between Stripe and the Salesforce\nCRM.](https://docs.stripe.com/connectors/stripe-connector-for-salesforce/overview)\n\n## Links\n\n- [Stripe Connector for SalesforceUse the Stripe Connector for Salesforce to\nbuild an integration between Stripe and the Salesforce\nCRM.](https://docs.stripe.com/connectors/stripe-connector-for-salesforce/overview)",
+  "metadata": {
+    "title": "Integrate Stripe Billing with Salesforce | Stripe Documentation",
+    "description": "Use Stripe with your Salesforce workflows and processes.",
+    "sourceURL": "https://docs.stripe.com/billing/integrations/salesforce"
+  }
+}

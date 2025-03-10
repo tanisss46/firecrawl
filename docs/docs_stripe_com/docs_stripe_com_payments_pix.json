@@ -1,0 +1,8 @@
+{
+  "content": "# Pix paymentsInvite only\n\n## Learn how to accept payments with Pix, a Brazilian instant payment method.\n\nPix is a real-time payment system developed by the Central Bank of Brazil. The\nservice works by instantly transferring funds between two bank accounts. To pay\nwith PIX, customers authenticate and approve by scanning a QR code or copying a\nPIX string in their preferred banking apps.\n\nPayment method propertiesSupported countries- **Customer locations**\n\nBrazil\n- **Payment method family**\n\nReal-time payments\n- **Connect support**\n\nBrazilian merchants only\n- **Presentment currency**\n\nBRL\n- **Recurring Payments**\n\nNo\n- **Dispute support**\n\nNo\n- **Manual capture support**\n\nNo\n- **Payment confirmation**\n\nCustomer-initiated\n- **Payout timing**\n\n2 business days\n- **Refunds / Partial refunds**\n\nYes / yes\n\n## Interested in getting access to Pix?\n\nAccess to Pix is currently limited to invited users. To express interest, enter\nyour email address below. We’ll add you to the waitlist and reach back out when\nwe’re ready to support you with Pix.\n\nCollect EmailSign upRead our [privacy policy](https://stripe.com/privacy).\n\n## Links\n\n- [privacy policy](https://stripe.com/privacy)",
+  "metadata": {
+    "title": "Pix payments | Stripe Documentation",
+    "description": "Learn how to accept payments with Pix, a Brazilian instant payment method.",
+    "sourceURL": "https://docs.stripe.com/payments/pix"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/changelog/acacia/2025-02-24/checkout-sessions-collected-info",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/changelog/acacia/2025-02-24/checkout-sessions-collected-info\nCall log:\n  - navigating to \"https://docs.stripe.com/changelog/acacia/2025-02-24/checkout-sessions-collected-info\", waiting until \"domcontentloaded\"\n"
+  }
+}

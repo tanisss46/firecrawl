@@ -1,0 +1,8 @@
+{
+  "content": "# Payouts list\n\n## Show a filterable list of payouts.\n\nPayouts list renders a list of payouts for the connected account.\n\n#### Note\n\nThis component is part of the [payouts\ncomponent](https://docs.stripe.com/connect/supported-embedded-components/payouts).\n\nSizeDesktopLocale (United States)This demo is read-only with limited\nfunctionality. Visit [furever.dev](https://furever.dev/) for a fully functional\ndemo.\nWhen [creating an Account\nSession](https://docs.stripe.com/api/account_sessions/create), enable payouts\nlist by specifying `payouts_list` in the `components` parameter.\n\n```\ncurl https://api.stripe.com/v1/account_sessions \\\n -u \"sk_test_BQokikJOvBiI2HlWgH4olfQ2:\" \\\n -d account={{CONNECTED_ACCOUNT_ID}} \\\n -d \"components[payouts_list][enabled]\"=true\n```\n\nAfter creating the account session and [initializing\nConnectJS](https://docs.stripe.com/connect/get-started-connect-embedded-components#account-sessions),\nyou can render the payouts list component in the front end:\n\n```\n// Include this element in your HTML\nconst payoutsList = stripeConnectInstance.create('payouts-list');\ncontainer.appendChild(payoutsList);\n```\n\n## Links\n\n- [payouts\ncomponent](https://docs.stripe.com/connect/supported-embedded-components/payouts)\n- [furever.dev](https://furever.dev)\n- [creating an Account\nSession](https://docs.stripe.com/api/account_sessions/create)\n- [initializing\nConnectJS](https://docs.stripe.com/connect/get-started-connect-embedded-components#account-sessions)",
+  "metadata": {
+    "title": "Payouts list | Stripe Documentation",
+    "description": "Show a filterable list of payouts.",
+    "sourceURL": "https://docs.stripe.com/connect/supported-embedded-components/payouts-list"
+  }
+}

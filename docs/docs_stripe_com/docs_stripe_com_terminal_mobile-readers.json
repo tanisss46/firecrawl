@@ -1,0 +1,8 @@
+{
+  "content": "# Stripe Terminal mobile readers\n\n## Learn about Stripe's pre-certified in-person payment mobile readers.\n\nTerminal’s mobile readers work with iOS, Android, and React Native SDKs and use\nBluetooth Low Energy or USB (on Android devices only) to connect to the SDKs on\na mobile device.\n\n[Stripe Reader M2](https://docs.stripe.com/terminal/readers/stripe-m2)Available\nin: [BBPOS Chipper 2X\nBT](https://docs.stripe.com/terminal/readers/bbpos-chipper2xbt)Available in:\n[BBPOS WisePad\n3](https://docs.stripe.com/terminal/readers/bbpos-wisepad3)Available in:\n## Reader software updates\n\nStripe and our hardware partners periodically release reader software updates,\nwhich can include improvements and required security updates. Mobile readers\nupdate themselves automatically upon connection to your point of sale. You must\nsupport updating the readers from your application. Failing to install a\nrequired update can prevent a reader from accepting payments.\n\n#### Note\n\nMobile readers force a reboot and disconnect from the POS app 24 hours after the\nlast boot.\n\n## Links\n\n- [available readers and\naccessories](https://dashboard.stripe.com/terminal/shop)\n- [Stripe Reader M2](https://docs.stripe.com/terminal/readers/stripe-m2)\n- [BBPOS Chipper 2X\nBT](https://docs.stripe.com/terminal/readers/bbpos-chipper2xbt)\n- [BBPOS WisePad 3](https://docs.stripe.com/terminal/readers/bbpos-wisepad3)",
+  "metadata": {
+    "title": "Stripe Terminal mobile readers | Stripe Documentation",
+    "description": "Learn about Stripe's pre-certified in-person payment mobile readers.",
+    "sourceURL": "https://docs.stripe.com/terminal/mobile-readers"
+  }
+}

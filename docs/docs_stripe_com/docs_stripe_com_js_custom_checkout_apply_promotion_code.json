@@ -1,0 +1,9 @@
+{
+  "content": "",
+  "metadata": {
+    "title": "",
+    "description": "",
+    "sourceURL": "https://docs.stripe.com/js/custom_checkout/apply_promotion_code",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://docs.stripe.com/js/custom_checkout/apply_promotion_code\nCall log:\n  - navigating to \"https://docs.stripe.com/js/custom_checkout/apply_promotion_code\", waiting until \"domcontentloaded\"\n"
+  }
+}
