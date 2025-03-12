@@ -926,16 +926,23 @@ def upload_to_pinecone(source_name, documents):
             # Note: In a production environment, you would use an actual embedding model
             mock_embedding = [0.01] * dim
             
+            # Ensure all required metadata fields are present
+            metadata = {
+                "title": title or "Untitled Document",
+                "url": url or "#",
+                "chunk_index": i,
+                "text": chunk,  # Use 'text' field as specified in Pinecone dashboard
+                "source": source_name
+            }
+            
+            # Add additional metadata fields if available
+            if 'markdown' in doc:
+                metadata["markdown"] = doc['markdown'][:1000]  # Limit size to avoid exceeding metadata limits
+            
             vectors_batch.append({
                 "id": doc_id,
                 "values": mock_embedding,
-                "metadata": {
-                    "title": title,
-                    "url": url,
-                    "chunk_index": i,
-                    "text": chunk,  # Use 'text' field as specified in Pinecone dashboard
-                    "source": source_name
-                }
+                "metadata": metadata
             })
             
             # Upload in batches

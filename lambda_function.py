@@ -138,7 +138,7 @@ def upload_to_pinecone(chunks, namespace):
     
     index = pc.Index(index_name)
     
-    # Pinecone Inference ile embedding oluştur
+    # Generate embeddings with Pinecone Inference
     logger.info("Generating embeddings with Pinecone Inference")
     try:
         embeddings = pc.inference.embed(
@@ -151,17 +151,32 @@ def upload_to_pinecone(chunks, namespace):
         logger.error(f"Error generating embeddings with Pinecone Inference: {str(e)}")
         raise
     
-    # Vektörleri hazırla
+    # Prepare vectors
     vectors = []
     for chunk, embedding in zip(chunks, embeddings):
+        # Create metadata dictionary with all required fields
+        metadata = {
+            "text": chunk.page_content,
+            "title": chunk.metadata.get("title", "Untitled Document"),
+            "url": chunk.metadata.get("url", "#"),
+            "source": namespace
+        }
+        
+        # Add other metadata fields if they are valid types
+        for k, v in chunk.metadata.items():
+            if k not in ["text", "title", "url", "source"] and isinstance(v, (str, int, float, bool)):
+                metadata[k] = v
+        
+        # Create vector ID
         vector = {
             "id": chunk.metadata["chunk_id"],
             "values": embedding["values"],
-            "metadata": {k: v for k, v in chunk.metadata.items() if isinstance(v, (str, int, float, bool))}
+            "metadata": metadata
         }
+        
         vectors.append(vector)
     
-    # Vektörleri Pinecone'a batch olarak yükle
+    # Upload vectors to Pinecone in batches
     if vectors:
         batch_size = 100
         logger.info(f"Preparing to upsert {len(vectors)} vectors to Pinecone")
